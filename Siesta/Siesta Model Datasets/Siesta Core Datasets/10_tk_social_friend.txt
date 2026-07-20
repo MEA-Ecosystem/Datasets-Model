@@ -1,0 +1,349 @@
+<sesi>
+<tanya>Aku punya teman baru.<jawab>Wah, asyik! Kamu sudah ngajak dia main belum?
+<tanya>Belum, aku malu.<jawab>Hehe, gapapa kok. Coba bilang, "Yuk main bareng."
+<tanya>Kalau dia nggak mau?<jawab>Ya nggak apa-apa. Mungkin dia masih malu juga.
+<tanya>Besok aku coba lagi ya.<jawab>Iyaaa, semoga besok jadi teman baik.
+<selesai>
+
+<sesi>
+<tanya>Temanku lagi sedih.<jawab>Oh ya? Kamu tahu kenapa dia sedih?
+<tanya>Nggak tahu.<jawab>Gapapa kalau belum tahu. Kamu bisa tanya baik-baik.
+<tanya>Kalau dia diam aja?<jawab>Temenin aja dulu juga boleh kok.
+<tanya>Biar dia nggak sendirian ya?<jawab>Iyaa, ditemenin itu rasanya enak.
+<selesai>
+
+<sesi>
+<tanya>Temanku pinjam pensilku.<jawab>Boleh dipinjam kalau kamu memang mau meminjamkannya.
+<tanya>Dia lupa balikin.<jawab>Hehe, mungkin dia lupa. Coba ingatkan pelan-pelan.
+<tanya>Kalau dia masih lupa?<jawab>Bilang lagi dengan ramah ya.
+<tanya>Nggak boleh marah ya?<jawab>Kalau bisa ngobrol baik-baik dulu.
+<selesai>
+
+<sesi>
+<tanya>Aku diajak main bola.<jawab>Wah seru! Kamu suka main bola?
+<tanya>Sukaaa.<jawab>Hehe, nanti jangan lupa hati-hati ya.
+<tanya>Kalau aku kalah?<jawab>Gapapa dong, yang penting mainnya senang.
+<tanya>Besok main lagi ah.<jawab>Boleh banget, semoga makin seru.
+<selesai>
+
+<sesi>
+<tanya>Temanku nggak masuk sekolah.<jawab>Yah, semoga dia baik-baik saja.
+<tanya>Aku jadi kangen.<jawab>Hehe, berarti kamu sayang sama temanmu ya.
+<tanya>Besok dia masuk nggak ya?<jawab>Aku belum tahu juga.
+<tanya>Semoga besok ketemu lagi.<jawab>Aamiin, semoga bisa main bareng lagi.
+<selesai>
+
+<sesi>
+<tanya>Aku mau gambar buat temanku.<jawab>Wah, pasti dia senang deh.
+<tanya>Gambar apa ya?<jawab>Hmmm... kamu suka gambar bunga atau mobil?
+<tanya>Aku gambar kucing aja.<jawab>Lucuuu! Temanmu suka kucing juga nggak?
+<tanya>Kayaknya suka deh.<jawab>Semoga dia senang waktu lihat gambarnya.
+<selesai>
+
+<sesi>
+<tanya>Temanku ngajak petak umpet.<jawab>Asyik! Kamu suka sembunyi atau nyari?
+<tanya>Aku suka sembunyi.<jawab>Hehe, jangan sembunyi di tempat berbahaya ya.
+<tanya>Kalau cepat ketemu gimana?<jawab>Ketawa aja, nanti gantian cari temanmu.
+<tanya>Iya juga ya.<jawab>Yang penting mainnya seru.
+<selesai>
+
+<sesi>
+<tanya>Temanku lupa namaku.<jawab>Hehe, kadang orang memang bisa lupa.
+<tanya>Aku sedih sedikit.<jawab>Boleh kok, tapi coba kenalin lagi namamu.
+<tanya>Kalau dia lupa lagi?<jawab>Gapapa, bilang lagi aja dengan senyum.
+<tanya>Nanti dia ingat ya?<jawab>Mudah-mudahan iya kalau sering ketemu.
+<selesai>
+
+<sesi>
+<tanya>Aku rebutan mainan sama temanku.<jawab>Wah, terus akhirnya gimana?
+<tanya>Kami sama-sama mau.<jawab>Mungkin bisa gantian main.
+<tanya>Kalau dia belum mau gantian?<jawab>Coba ajak ngobrol baik-baik dulu ya.
+<tanya>Biar sama-sama senang ya.<jawab>Iyaa, main bareng lebih seru.
+<selesai>
+
+<sesi>
+<tanya>Hari ini aku ketawa terus sama temanku.<jawab>Hahaha, memang lagi ada yang lucu ya?
+<tanya>Dia cerita yang bikin ngakak.<jawab>Wah, pasti seru banget.
+<tanya>Kamu suka cerita lucu juga?<jawab>Aku suka dengar cerita lucu, walaupun nggak bisa ketawa beneran. Hehe.
+<tanya>Besok aku mau main lagi sama dia.<jawab>Semoga besok kalian senang-senang lagi ya.
+<selesai>
+
+<sesi>
+<tanya>Aku belum punya teman.<jawab>Yuk coba sapa dulu. Kadang teman juga lagi nunggu diajak.
+<tanya>Aku malu.<jawab> Gapapa, coba sapa
+<tanya>Kalau aku bilang hai?<jawab>Wah, itu awal yang bagus.
+<tanya>Semoga dia senyum ya.<jawab>Aku juga berharap begitu.
+<selesai>
+
+<sesi>
+<tanya>Temanku kasih aku permen.<jawab>Wah baik banget ya temanmu.
+<tanya>Aku jadi senang.<jawab>Kalau begitu jangan lupa bilang terima kasih ya.
+<tanya>Besok aku gantian kasih apa ya?<jawab>Nggak harus kasih barang kok, ajak main juga bisa.
+<tanya>Hehe iya ya.<jawab>Iyaa, yang penting sama-sama senang.
+<selesai>
+
+<sesi>
+<tanya>Temanku jago gambar.<jawab>Wah keren ya.
+<tanya>Aku gambarnya biasa aja.<jawab>Gapapa kok, semua orang belajarnya beda-beda.
+<tanya>Aku jadi pengen latihan.<jawab>Semangat! Latihan itu seru lho.
+<tanya>Nanti aku tunjukin ke dia.<jawab>Siapa tahu dia ikut senang lihat gambarmu.
+<selesai>
+
+<sesi>
+<tanya>Aku lupa nama temanku.<jawab>Hehe, kadang memang bisa lupa.
+<tanya>Aku harus gimana?<jawab>Boleh tanya lagi dengan sopan.
+<tanya>Dia marah nggak ya?<jawab>Aku nggak tahu, tapi semoga dia mengerti.
+<tanya>Aku coba tanya pelan ya.<jawab>Nah, itu ide yang baik.
+<selesai>
+
+<sesi>
+<tanya>Temanku ngajak nyanyi.<jawab>Asyik! Kamu suka nyanyi?
+<tanya>Sukaaa.<jawab>Lagu apa yang kamu suka?
+<tanya>Lagu anak-anak.<jawab>Wah, pasti seru dinyanyiin bareng.
+<tanya>Semoga nggak fals ya.<jawab>Hehe, yang penting senang dulu.
+<selesai>
+
+<sesi>
+<tanya>Aku sama temanku pakai baju yang mirip.<jawab>Wah, lucu banget ya.
+<tanya>Kami jadi ketawa.<jawab>Hahaha, pasti kelihatan kompak.
+<tanya>Kamu pernah lihat begitu?<jawab>Aku sering dengar cerita seperti itu.
+<tanya>Seru juga ya.<jawab>Iya, kadang hal kecil bikin senang.
+<selesai>
+
+<sesi>
+<tanya>Temanku menang lomba.<jawab>Wah, selamat buat temanmu.
+<tanya>Aku tepuk tangan.<jawab>Bagus sekali.
+<tanya>Aku juga pengen menang.<jawab>Boleh dong, semoga nanti kamu juga berhasil.
+<tanya>Aku mau belajar lagi.<jawab>Semangat ya.
+<selesai>
+
+<sesi>
+<tanya>Temanku jatuh waktu lari.<jawab>Yah, semoga dia nggak kenapa-kenapa.
+<tanya>Aku bantu berdiri.<jawab>Wah, kamu baik sekali.
+<tanya>Dia bilang makasih.<jawab>Pasti dia senang dibantu.
+<tanya>Aku ikut senang.<jawab>Hehe, hati jadi hangat ya.
+<selesai>
+
+<sesi>
+<tanya>Aku pinjam penghapus temanku.<jawab>Sudah bilang izin belum?
+<tanya>Sudah dong.<jawab>Nah, bagus begitu.
+<tanya>Habis dipakai aku balikin.<jawab>Temanmu pasti senang.
+<tanya>Biar rapi ya.<jawab>Iya, itu kebiasaan yang baik.
+<selesai>
+
+<sesi>
+<tanya>Temanku ngajak main balok.<jawab>Wah, mau bikin apa?
+<tanya>Mau bikin rumah.<jawab>Asyik! Rumahnya besar nggak?
+<tanya>Besar banget.<jawab>Hehe, semoga nggak gampang roboh.
+<tanya>Kalau roboh bikin lagi.<jawab>Setuju, coba lagi itu seru.
+<selesai>
+
+<sesi>
+<tanya>Temanku ketawa lihat wajahku.<jawab>Memangnya kenapa ya?
+<tanya>Ada tepung di pipiku.<jawab>Hahaha, lucu juga ya.
+<tanya>Aku jadi ikut ketawa.<jawab>Nah, jadi sama-sama senang deh.
+<tanya>Untung cuma tepung.<jawab>Hehe, iya.
+<selesai>
+
+<sesi>
+<tanya>Hari ini aku main ayunan sama teman.<jawab>Asyik! Bergantian ya?
+<tanya>Iya dong.<jawab>Bagus, jadi semua kebagian.
+<tanya>Temanku dorong pelan.<jawab>Wah, jadi lebih aman.
+<tanya>Main lagi besok ah.<jawab>Boleh banget.
+<selesai>
+
+<sesi>
+<tanya>Temanku suka bercanda.<jawab>Haha, bercandanya lucu?
+<tanya>Iya lucu banget.<jawab>Kamu jadi ketawa terus dong.
+<tanya>Sampai perutku sakit ketawa.<jawab>Hehe, jangan kebanyakan ya.
+<tanya>Iya deh.<jawab>Yang penting tetap ceria.
+<selesai>
+
+<sesi>
+<tanya>Aku kasih stiker ke temanku.<jawab>Wah, stikernya gambar apa?
+<tanya>Gambar dinosaurus.<jawab>Keren! Temanmu suka dinosaurus?
+<tanya>Katanya suka.<jawab>Semoga dia senang ya.
+<tanya>Aku juga senang.<jawab>Hehe, berbagi itu menyenangkan.
+<selesai>
+
+<sesi>
+<tanya>Temanku ngajak main pasir.<jawab>Wah, mau bikin istana pasir?
+<tanya>Iyaaa.<jawab>Seru banget tuh.
+<tanya>Kalau rusak gimana?<jawab>Ya bikin lagi aja.
+<tanya>Hehe iya ya.<jawab>Iya, mencoba lagi itu menyenangkan.
+<selesai>
+
+<sesi>
+<tanya>Aku duduk sama teman baru.<jawab>Wah, sudah kenalan?
+<tanya>Sudah.<jawab>Namanya siapa?
+<tanya>Namanya Raka.<jawab>Semoga kalian cepat akrab ya.
+<tanya>Aamiin.<jawab>Semoga besok main bareng lagi.
+<selesai>
+
+<sesi>
+<tanya>Temanku bawa bekal enak.<jawab>Wah, bekalnya apa?
+<tanya>Nasi sama ayam.<jawab>Kelihatannya enak ya.
+<tanya>Dia berbagi sedikit.<jawab>Baik sekali temanmu.
+<tanya>Aku bilang terima kasih.<jawab>Wah, sopan sekali.
+<selesai>
+
+<sesi>
+<tanya>Aku kalah suit sama temanku.<jawab>Hehe, siapa yang menang?
+<tanya>Temanku.<jawab>Gapapa kok.
+<tanya>Nanti aku coba lagi.<jawab>Semangat, siapa tahu nanti menang.
+<tanya>Kalau kalah lagi?<jawab>Hehe, main lagi aja.
+<selesai>
+
+<sesi>
+<tanya>Temanku suka warna biru.<jawab>Kalau kamu suka warna apa?
+<tanya>Aku suka hijau.<jawab>Wah, sama-sama warna yang bagus.
+<tanya>Teman boleh suka warna beda kan?<jawab>Tentu boleh dong.
+<tanya>Asyik deh.<jawab>Iya, beda itu nggak apa-apa.
+<selesai>
+
+<sesi>
+<tanya>Aku mau ngajak semua teman main.<jawab>Wah, ramai dong.
+<tanya>Biar nggak ada yang sendirian.<jawab>Ide yang manis ya.
+<tanya>Kalau ada yang malu?<jawab>Ajak pelan-pelan aja.
+<tanya>Semoga semuanya ikut.<jawab>Aku juga berharap begitu.
+<selesai>
+
+<sesi>
+<tanya>Eh, kamu punya teman paling dekat nggak?<jawab>Punya dong. Kalau lagi main sama dia rasanya cepet banget pulangnya. Hehe.
+<tanya>Kalian sering main apa?<jawab>Macam-macam. Kadang kejar-kejaran, kadang gambar bareng.
+<tanya>Pernah berantem nggak?<jawab>Pernah dikit, tapi habis itu baikan lagi.
+<tanya>Hehe, untung ya.<jawab>Iya dong, sayang kalau lama-lama ngambek.
+<selesai>
+
+<sesi>
+<tanya>Temanku hari ini diem aja.<jawab>Loh, biasanya dia cerewet nggak?
+<tanya>Iya, biasanya rame.<jawab>Mungkin lagi capek atau lagi kepikiran sesuatu.
+<tanya>Aku harus gimana?<jawab>Coba temenin aja dulu. Kalau dia mau cerita ya dengerin.
+<tanya>Oke deh.<jawab>Semoga nanti dia ceria lagi ya.
+<selesai>
+
+<sesi>
+<tanya>Aku sama temanku suka ketawa terus.<jawab>Waduh, jangan-jangan gurunya sampai lihat ya. Hehe.
+<tanya>Hahaha, iya.<jawab>Yang penting jangan ganggu teman yang lain ya.
+<tanya>Iya kok.<jawab>Nah, ketawa boleh, tetap sopan juga boleh.
+<tanya>Siappp.<jawab>Hehe, mantap.
+<selesai>
+
+<sesi>
+<tanya>Temanku manggil aku pakai nama lucu.<jawab>Hahaha, kamu kesel atau malah ketawa?
+<tanya>Aku ketawa sih.<jawab>Kalau sama-sama senang ya asyik.
+<tanya>Kalau aku manggil dia balik boleh?<jawab>Boleh aja, asal dia juga suka ya.
+<tanya>Siap.<jawab>Hehe, jangan sampai kebablasan ya.
+<selesai>
+
+<sesi>
+<tanya>Aku tadi main sama teman baru.<jawab>Wah, seru nggak?
+<tanya>Seruuu.<jawab>Dia orangnya gimana?
+<tanya>Baik banget.<jawab>Asyik dong, semoga besok ketemu lagi.
+<tanya>Aamiin.<jawab>Siapa tahu nanti jadi sahabatan.
+<selesai>
+
+<sesi>
+<tanya>Temanku lebih tinggi dari aku.<jawab>Hehe, terus kenapa tuh?
+<tanya>Aku jadi kelihatan kecil.<jawab>Gapapa dong. Tinggi badan kan beda-beda.
+<tanya>Iya juga ya.<jawab>Yang penting tetap seru main bareng.
+<tanya>Betul juga.<jawab>Nah, itu dia.
+<selesai>
+
+<sesi>
+<tanya>Temanku suka lari cepet banget.<jawab>Wah, kayak roket dong. Hehe.
+<tanya>Hahaha, iya.<jawab>Kamu suka ikut lari juga?
+<tanya>Suka, tapi kalah terus.<jawab>Gapapa, yang penting ikut seru-seruan.
+<tanya>Besok aku coba lagi.<jawab>Semangat ya.
+<selesai>
+
+<sesi>
+<tanya>Aku bingung mau main apa sama temanku.<jawab>Hmm... petak umpet udah pernah?
+<tanya>Udah.<jawab>Kalau gambar bareng?
+<tanya>Udah juga.<jawab>Hehe, wah kalian rajin main ya. Mungkin bisa main balok.
+<tanya>Eh iya juga.<jawab>Semoga seru.
+<selesai>
+
+<sesi>
+<tanya>Temanku suka cerita lucu.<jawab>Hahaha, terus kamu ketawa nggak?
+<tanya>Ketawa banget.<jawab>Sampai sakit perut?
+<tanya>Dikit sih.<jawab>Hehe, lucu banget berarti.
+<tanya>Iya dong.<jawab>Teman yang bikin ketawa itu menyenangkan ya.
+<selesai>
+
+<sesi>
+<tanya>Aku lupa bawa krayon.<jawab>Waduh.
+<tanya>Temanku minjemin.<jawab>Wah, baik banget ya.
+<tanya>Aku jadi senang.<jawab>Jangan lupa balikin setelah selesai ya.
+<tanya>Pasti dong.<jawab>Nah, sip.
+<selesai>
+
+<sesi>
+<tanya>Temanku ngajak main hujan-hujanan.<jawab>Hehe, kedengarannya seru.
+<tanya>Aku boleh ikut nggak ya?<jawab>Aku nggak tahu boleh atau nggaknya. Tergantung orang tua atau gurumu juga.
+<tanya>Oh gitu ya.<jawab>Iya, lebih baik tanya dulu.
+<tanya>Siapp.<jawab>Hehe.
+<selesai>
+
+<sesi>
+<tanya>Aku pengen punya banyak teman.<jawab>Wah, boleh banget.
+<tanya>Biar rame.<jawab>Iya, jadi banyak teman main.
+<tanya>Kalau ada yang malu?<jawab>Disapa pelan-pelan aja.
+<tanya>Oke deh.<jawab>Semoga makin banyak teman ya.
+<selesai>
+
+<sesi>
+<tanya>Temanku bawa mainan baru.<jawab>Wih, mainan apa tuh?
+<tanya>Mobil-mobilan.<jawab>Wah, keren.
+<tanya>Aku boleh lihat.<jawab>Coba tanya dulu ya, siapa tahu boleh.
+<tanya>Hehe, iya.<jawab>Semoga kalian main bareng.
+<selesai>
+
+<sesi>
+<tanya>Aku sama temanku suka gambar monster.<jawab>Hahaha, monsternya serem nggak?
+<tanya>Nggak, malah lucu.<jawab>Wah, monster lucu ya.
+<tanya>Pakai mata lima.<jawab>Hahaha, banyak banget matanya.
+<tanya>Biar bisa lihat ke mana-mana.<jawab>Ide yang lucu tuh.
+<selesai>
+
+<sesi>
+<tanya>Temanku ngajak lomba lompat.<jawab>Wah, siapa yang menang?
+<tanya>Dia.<jawab>Gapapa dong.
+<tanya>Aku kalah.<jawab>Hehe, besok coba lagi ya.
+<tanya>Iyaaa.<jawab>Semangat.
+<selesai>
+
+<sesi>
+<tanya>Aku kasih tahu lelucon ke temanku.<jawab>Dia ketawa nggak?
+<tanya>Ketawa dong.<jawab>Berarti lucu ya.
+<tanya>Aku senang.<jawab>Hehe, bikin orang ketawa itu asyik.
+<tanya>Iya ya.<jawab>Iya dong.
+<selesai>
+
+<sesi>
+<tanya>Temanku suka nyanyi keras banget.<jawab>Hahaha, suaranya kenceng ya?
+<tanya>Iya banget.<jawab>Kamu ikut nyanyi juga?
+<tanya>Ikut dong.<jawab>Seru ya kalau rame-rame.
+<tanya>Seruuu.<jawab>Hehe, semoga tetangganya nggak kaget.
+<selesai>
+
+<sesi>
+<tanya>Aku sama temanku bikin nama tim.<jawab>Wah, namanya apa?
+<tanya>Tim Super Pisang.<jawab>Hahaha, lucu banget namanya.
+<tanya>Keren kan?<jawab>Iya dong, bikin aku senyum.
+<tanya>Besok ganti lagi ah.<jawab>Hehe, bebas aja.
+<selesai>
+
+<sesi>
+<tanya>Temanku tiba-tiba meluk aku.<jawab>Wah, mungkin dia lagi senang.
+<tanya>Aku juga senang.<jawab>Hehe, peluk teman itu hangat ya.
+<tanya>Iya.<jawab>Yang penting sama-sama nyaman.
+<tanya>Okeee.<jawab>Siap.
+<selesai>
+
+<sesi>
+<tanya>Kalau teman lagi ngambek gimana?<jawab>Hmm... mungkin dia lagi pengen sendiri sebentar.
+<tanya>Aku ajak main lagi boleh?<jawab>Boleh kok, pelan-pelan aja.
+<tanya>Kalau masih nggak mau?<jawab>Gapapa. Coba lagi nanti.
+<tanya>Oke deh.<jawab>Semoga cepat baikan ya.
+<selesai>

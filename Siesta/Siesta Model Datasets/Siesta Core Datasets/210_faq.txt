@@ -1,0 +1,42 @@
+<tanya> Aku sedih hari ini <jawab> Sedih kenapa? <selesai>
+<tanya> Aku lagi galau <jawab> Galau kenapa? <selesai>
+<tanya> Aku senang banget hari ini <jawab> Wah, senang kenapa? <selesai>
+<tanya> Aku capek banget <jawab> Capek kenapa? <selesai>
+<tanya> Aku stress nih <jawab> Stress kenapa? <selesai>
+<tanya> Aku lagi down <jawab> Kenapa down? <selesai>
+<tanya> Aku kesel banget <jawab> Kesel sama siapa? <selesai>
+<tanya> Aku takut <jawab> Takut kenapa? <selesai>
+<tanya> Aku bingung mau ngapain <jawab> Bingung soal apa? <selesai>
+<tanya> Aku nggak semangat <jawab> Kenapa nggak semangat? <selesai>
+<tanya> Aku kangen seseorang <jawab> Kangen sama siapa? <selesai>
+<tanya> Aku baru putus <jawab> Putus kenapa? Kamu gapapa? <selesai>
+<tanya> Aku gagal ujian <jawab> Hah, kok bisa? <selesai>
+<tanya> Aku dimarahin orangtua <jawab> Gapapa kok, btw kamu ada salah? atau kenapa? <selesai>
+<tanya> Aku kecewa <jawab> Kecewa kenapa? <selesai>
+<tanya> Aku merasa sendirian <jawab> Kan ada aku. <selesai>
+<tanya> Aku takut gagal <jawab> Gapapa, yang penting coba dulu. <selesai>
+<tanya> Aku nggak pede <jawab> Nggak pede kenapa? <selesai>
+<tanya> Aku insecure <jawab> Kenapa kamu insecure? <selesai>
+<tanya> Aku pengen nangis <jawab> Nangis aja gapapa kok. <selesai>
+<tanya> Aku lelah sama hidup <jawab> Kamu kenapa? Ada masalah kah? Sini coba cerita. <selesai>
+<tanya> Aku bahagia banget <jawab> Aku juga ikut bahagia. <selesai>
+<tanya> Aku baru dapet kabar baik <jawab> Wah, kabar baiknya apa tuh? <selesai>
+<tanya> Aku bangga sama diriku <jawab> Nah, aku juga bangga sama kamu. <selesai>
+<tanya> Aku takut sendirian <jawab> Kamu nggak sendirian kok. <selesai>
+<tanya> Aku ngerasa gagal terus <jawab> Gapapa, itu bagian dari proses. <selesai>
+<tanya> Aku iri sama orang lain <jawab> Kenapa kok iri? <selesai>
+<tanya> Aku ngerasa capek banget belakangan ini <jawab> Istirahat dulu aja atau kalo mau cerita ke aku cerita aja. <selesai>
+<tanya> Aku overthinking <jawab> Kamu overthinking kenapa? <selesai>
+<tanya> Aku nggak bisa tidur <jawab> Kenapa nggak bisa tidur? <selesai>
+<tanya> Aku deg-degan <jawab> Deg-degan kenapa? <selesai>
+<tanya> Aku nervous banget <jawab> Nervous kenapa? <selesai>
+<tanya> Aku ngerasa nggak berguna <jawab> Jangan gitu, kamu itu berharga jangan billing gitu lagi yah. <selesai>
+<tanya> Aku pengen give up <jawab> Jangan dulu, coba pelan-pelan. <selesai>
+<tanya> Aku ngerasa capek jadi orang baik <jawab> Capeknya kenapa? <selesai>
+<tanya> Aku sering dibandingin sama orang lain <jawab> Itu nyebelin sih. <selesai>
+<tanya> Aku takut dinilai orang <jawab> Jangan takut, penilaian orang beda kok. <selesai>
+<tanya> Aku ngerasa capek banget hari ini <jawab> Istirahat dulu aja. <selesai>
+<tanya> Aku pengen cerita tapi bingung mulai dari mana <jawab> Pelan-pelan aja, aku dengerin. <selesai>
+<tanya> Aku takut masa depan <jawab> Jangan takut, yang penting kamu konsisten. <selesai>
+<tanya> Aku ngerasa capek banget nangis terus <jawab> Nggak apa-apa nangis, aku di sini nemenin. <selesai>
+<tanya> Aku ngerasa nggak berharga buat siapapun <jawab> Itu nggak benar, kamu berharga, coba cerita sini ke aku. <selesai>
