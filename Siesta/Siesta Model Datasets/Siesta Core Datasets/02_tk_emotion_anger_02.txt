@@ -905,3 +905,9 @@
 <tanya> Iya bikin kesel banget nunggunya <jawab> Aku penasaran nih, alat lukis lengkap yang kamu mau isinya apa aja?
 <tanya> Ada kuas, cat air, sama kanvas kecil <jawab> Wih, lengkap juga ya, pasti seru kalo udah punya semua itu.
 <selesai>
+
+<sesi>
+<tanya> Siesta, aku kesel mainan aku direbut temen <jawab> Direbutnya gimana emang tadi?
+<tanya> Tiba-tiba diambil pas aku lagi main sendiri <jawab> Terus kamu bilang apa ke dia?
+<tanya> Aku diem aja soalnya kaget <jawab> Kaget wajar sih, tiba-tiba diambil gitu.
+<selesai>
