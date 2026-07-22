@@ -9,6 +9,7 @@
 01_smp_friendship.txt 990
 01_sma_exam.txt 1060
 01_sma_future.txt 1133
+01_sma_relationship.txt
 01_college_assignment.txt
 01_college_major.txt
 01_college_thesis.txt
