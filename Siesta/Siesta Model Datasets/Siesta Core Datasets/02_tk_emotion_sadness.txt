@@ -246,24 +246,10 @@
 <selesai>
 
 <sesi>
-<tanya> Sahabatku pindah sekolah, aku sedih banget <jawab> Pindahnya ke sekolah mana emang?
-<tanya> Ke sekolah yang jauh, gak sekelas lagi <jawab> Berarti gak bisa main bareng tiap hari lagi dong sekarang.
-<tanya> Iya, sedih banget rasanya <jawab> Udah tuker nomor telpon orang tua kalian belom?
-<tanya> Udah sih kemarin <jawab> Nah bagus, jadi masih bisa ngobrol walau beda sekolah.
-<selesai>
-
-<sesi>
 <tanya> Papa dinas ke luar kota seminggu, sedih aku <jawab> Seminggu itu emang lumayan lama ya.
 <tanya> Iya sedih banget rasanya di rumah <jawab> Biasanya papa suka main apa sama kamu di rumah?
 <tanya> Suka main bola bareng sore-sore <jawab> Nanti pas papa pulang bisa main bola lagi kan.
 <tanya> Iya bener juga sih <jawab> Sambil nunggu, coba main sama yang lain dulu.
-<selesai>
-
-<sesi>
-<tanya> Kakak kuliah jadi jarang di rumah, sedih banget aku <jawab> Kuliahnya di kota lain apa masih deket?
-<tanya> Di kota lain, jadi kos di sana <jawab> Berarti ketemunya cuma pas libur ya sekarang.
-<tanya> Iya banget, rumah jadi sepi <jawab> Coba video call kakak kalo kangen, biar bisa liat mukanya.
-<tanya> Iya deh nanti aku coba <jawab> Nah gitu, biar walau jauh tetep berasa deket.
 <selesai>
 
 <sesi>
@@ -621,7 +607,6 @@
 <tanya> Iya banget, langsung nangis pas liat <jawab> Wajar nangis, hiks, kamu kan sayang banget sama ayamnya.
 <tanya> Iya makasih udah dengerin aku cerita <jawab> Sama-sama, aku ikutan sedih juga dengernya.
 <selesai>
-
 
 <sesi>
 <tanya> Temenku janji main bareng sore ini tapi malah pergi sama yang lain, sedih aku <jawab> Janjiannya udah dari kapan tadi?
@@ -1243,13 +1228,6 @@
 <tanya> Udah seminggu, susah buat duduk lama <jawab> Wih, lumayan lama juga ya itu, pasti gak nyaman banget.
 <tanya> Iya banget, aku jadi ikutan sedih <jawab> Coba anter papa pijet biar agak reda sakitnya.
 <tanya> Iya ide bagus, nanti aku bilang mama <jawab> Semoga cepet enakan ya punggung papa.
-<selesai>
-
-<sesi>
-<tanya> Nenekku sakit sesak napas terus harus pake alat bantu <jawab> Sesaknya kambuh dari kapan ceritanya?
-<tanya> Dari tadi malem, jadi susah tidur <jawab> Pasti khawatir banget kamu liat nenek kayak gitu.
-<tanya> Iya banget, aku takut banget <jawab> Wajar takut, tapi dokter udah bantu pake alatnya kan.
-<tanya> Iya, sekarang udah agak mendingan <jawab> Syukurlah, semoga terus membaik ya nenek.
 <selesai>
 
 <sesi>
