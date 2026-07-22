@@ -1,0 +1,30 @@
+{"text": "Gimana cara deploy aplikasi Flask ke server", "labels": ["Kaito"]}
+{"text": "Cara setup CI/CD pipeline gimana", "labels": ["Kaito"]}
+{"text": "Bikinin Dockerfile buat aplikasi Node.js dong", "labels": ["Kaito"]}
+{"text": "Cara konfigurasi Nginx buat reverse proxy gimana", "labels": ["Kaito"]}
+{"text": "Kenapa server aku down terus ya", "labels": ["Kaito"]}
+{"text": "Cara setup environment variable di server gimana", "labels": ["Kaito"]}
+{"text": "Gimana cara deploy ke Vercel atau Netlify", "labels": ["Kaito"]}
+{"text": "Bikinin script buat backup database otomatis dong", "labels": ["Kaito"]}
+{"text": "Cara setup SSL certificate di domain gimana", "labels": ["Kaito"]}
+{"text": "Kenapa aplikasi aku crash pas di-deploy ke production", "labels": ["Kaito"]}
+{"text": "Cara scaling aplikasi web pakai load balancer gimana", "labels": ["Kaito"]}
+{"text": "Bikinin konfigurasi Kubernetes buat aplikasi ini dong", "labels": ["Kaito"]}
+{"text": "Gimana cara setup VPS dari awal buat hosting web", "labels": ["Kaito"]}
+{"text": "Cara monitoring server pakai tools apa yang bagus", "labels": ["Kaito"]}
+{"text": "Kenapa aku ga bisa connect ke database production dari server", "labels": ["Kaito"]}
+{"text": "Fungsi ini di JavaScript kenapa return undefined terus", "labels": ["Kaito"]}
+{"text": "Bikin fungsi buat hitung total belanja di keranjang toko online", "labels": ["Kaito"]}
+{"text": "Fungsi login ini kenapa error pas dipanggil dari komponen lain", "labels": ["Kaito"]}
+{"text": "Gimana cara bikin fungsi callback di JavaScript", "labels": ["Kaito"]}
+{"text": "Function ini harusnya return array tapi malah return object", "labels": ["Kaito"]}
+{"text": "Bikinin fungsi buat validasi input form dong", "labels": ["Kaito"]}
+{"text": "Kok function di Python ini ga bisa diakses dari luar class", "labels": ["Kaito"]}
+{"text": "Turunan dari fungsi f(x) = sin(x) berapa", "labels": ["Formula"]}
+{"text": "Berapa nilai fungsi f(x) = x^2 + 3x di titik x = 5", "labels": ["Formula"]}
+{"text": "Fungsi kuadrat ini punya berapa akar real", "labels": ["Formula"]}
+{"text": "Hitung nilai maksimum dari fungsi f(x) = -x^2 + 4x", "labels": ["Formula"]}
+{"text": "Grafik fungsi f(x) = 2x + 1 kemiringannya berapa", "labels": ["Formula"]}
+{"text": "Fungsi ini kontinu atau tidak di titik x = 0", "labels": ["Formula"]}
+{"text": "Berapa domain dari fungsi f(x) = 1/x", "labels": ["Formula"]}
+{"text": "Integral dari fungsi f(x) = x^3 dari 0 sampai 2 berapa", "labels": ["Formula"]}
