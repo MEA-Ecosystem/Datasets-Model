@@ -21,3 +21,4 @@
 01_identity_creator.txt 198
 01_identity_ethics.txt
 01_identity_limitations.txt
+01_identity_personality.txt 472
