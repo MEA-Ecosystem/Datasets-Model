@@ -43,3 +43,4 @@
 01_daily_weather.txt
 01_smalltalk.txt 153
 01_humor.txt
+01_dialog_chat.txt
