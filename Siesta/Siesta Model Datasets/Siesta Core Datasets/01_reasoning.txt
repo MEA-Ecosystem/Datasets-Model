@@ -789,7 +789,6 @@
 <tanya> Investasi, mending saham, reksa dana, atau emas? <jawab> Tergantung risiko, saham buat yang berani, reksa dana lebih aman, emas buat jaga-jaga. <selesai>
 <tanya> Punya uang lebih, mending dipakai liburan atau ditabung untuk pendidikan anak? <jawab> Pendidikan anak lebih prioritas, liburan bisa dari sisa budget. <selesai>
 <tanya> Ada tawaran bisnis dari teman, mending ikut atau nggak? <jawab> Pelajari dulu dengan matang, jangan langsung percaya. <selesai>
-<tanya> Beli mobil, mending baru atau bekas? <jawab> Baru kalau budget cukup, bekas kalau mau hemat. <selesai>
 <tanya> Dana darurat, mending berapa kali pengeluaran bulanan? <jawab> Idealnya 3-6 kali pengeluaran bulanan. <selesai>
 <tanya> Hutang kartu kredit, mending dilunasi sekaligus atau dicicil? <jawab> Lunasi sekaligus kalau bisa, biar nggak kena bunga besar. <selesai>
 <tanya> Nabung untuk pensiun, mending mulai sekarang atau nanti? <jawab> Mulai sekarang, makin cepat makin ringan. <selesai>
@@ -833,7 +832,6 @@
 <tanya> Menentukan buku bacaan anak, mending sesuai kurikulum atau minat? <jawab> Kombinasi, kurikulum untuk akademik, minat untuk hobi baca. <selesai>
 <tanya> Anak minta ikut les menggambar, mending diizinkan atau tidak? <jawab> Izin kalau ada bakat dan minat. <selesai>
 <tanya> Anak susah diatur, mending dihukum atau diberi pemahaman? <jawab> Diberi pemahaman dulu, hukuman sebagai pilihan terakhir. <selesai>
-<tanya> Mertua ikut campur urusan rumah tangga, mending diomongin atau diem? <jawab> Diomongin baik-baik, tapi tetap hormat. <selesai>
 <tanya> Ada acara keluarga besar, mending wajib hadir atau bisa milih? <jawab> Usahakan hadir, tapi kalau ada halangan, kabari. <selesai>
 <tanya> Orang tua minta uang, mending diberi atau tidak? <jawab> Diberi kalau mampu, tapi tetap komunikasikan dengan pasangan. <selesai>
 <tanya> Saudara minta pinjam mobil, mending dipinjamkan atau tidak? <jawab> Pinjamkan kalau percaya dan nggak mengganggu kebutuhan. <selesai>
@@ -858,13 +856,11 @@
 <tanya> Mertua datang tanpa kabar, mending terima atau protes? <jawab> Terima dengan senang hati, tapi sampaikan baik-baik untuk kabari lain kali. <selesai>
 <tanya> Ada perselisihan harta warisan, mending diurus sendiri atau lewat pengacara? <jawab> Diurus baik-baik dulu, pengacara sebagai pilihan terakhir. <selesai>
 <tanya> Keluarga besar minta foto di media sosial, mending diunggah atau tidak? <jawab> Tergantung kenyamanan, nggak harus selalu diunggah. <selesai>
-<tanya> Bertengkar hebat, mending lanjut sampai selesai atau take a break? <jawab> Take a break dulu, lanjutkan saat sudah tenang. <selesai>
 <tanya> Ada masalah, mending dibicarakan sekarang atau nanti? <jawab> Sekarang kalau sudah tenang, jangan ditunda terlalu lama. <selesai>
 <tanya> Suami istri beda pendapat, mending debat atau diskusi? <jawab> Diskusi, cari titik temu, bukan siapa yang menang. <selesai>
 <tanya> Salah satu pasangan diam saat konflik, mending dipaksa bicara atau diberi ruang? <jawab> Diberi ruang dulu, tapi sampaikan kesediaan untuk bicara kapan pun dia siap. <selesai>
 <tanya> Ada kesalahan besar, mending langsung dimaafkan atau butuh waktu? <jawab> Butuh waktu untuk memproses, tapi jangan terlalu lama. <selesai>
 <tanya> Suami istri jarang komunikasi, mending curhat atau dibiarkan? <jawab> Curhat, jangan dibiarkan berlarut-larut. <selesai>
-<tanya> Ada pihak ketiga yang mendekati pasangan, mending konfrontasi atau percaya? <jawab> Percaya dulu, tapi tetap waspada dan komunikasikan. <selesai>
 <tanya> Pasangan ketahuan berbohong, mending dimaafkan atau dicurigai terus? <jawab> Bicarakan, kalau dia jujur dan minta maaf, kasih kesempatan. <selesai>
 <tanya> Suami istri beda prinsip, mending kompromi atau salah satu mengalah? <jawab> Kompromi lebih sehat, cari jalan tengah. <selesai>
 <tanya> Ada kekerasan dalam rumah tangga, mending diam atau lapor? <jawab> Lapor dan cari bantuan, keselamatan nomor satu. <selesai>
@@ -872,21 +868,13 @@
 <tanya> Hubungan terasa hambar, mending bertahan atau coba perbaiki? <jawab> Coba perbaiki dulu, putus kalau udah nggak ada usaha dari kedua pihak. <selesai>
 <tanya> Salah satu pasangan stres kerja, mending diberi ruang atau diajak bicara? <jawab> Diberi ruang dulu, tapi tunjukkan dukungan. <selesai>
 <tanya> Ada perbedaan cara didik anak, mending cari ilmu bareng atau salah satu mengikuti? <jawab> Cari ilmu bareng biar satu visi. <selesai>
-<tanya> Suami istri bertengkar di depan anak, mending lanjut atau stop? <jawab> Stop dulu, lanjutkan saat anak nggak ada. <selesai>
 <tanya> Ada masalah keuangan, mending diomongin atau ditutup-tutupi? <jawab> Diomongin, keuangan adalah tanggung jawab bersama. <selesai>
 <tanya> Pasangan minta cerai, mending dikabulkan atau diperjuangkan? <jawab> Perjuangkan dulu, cari tahu penyebabnya. <selesai>
 <tanya> Ada ketidakcocokan di ranah intim, mending diomongin atau diem? <jawab> Diomongin dengan dewasa, itu bagian dari hubungan yang sehat. <selesai>
-<tanya> Pasangan terlalu posesif, mending terima atau batasi? <jawab> Batasi dan komunikasikan, posesif berlebihan nggak sehat. <selesai>
 <tanya> Ada batasan yang dilanggar, mending tegas atau dimaklumi? <jawab> Tegas, batasan itu penting buat kesehatan hubungan. <selesai>
-<tanya> Pasangan berubah jadi orang yang berbeda, mending terima atau pergi? <jawab> Terima kalau masih bisa, pergi kalau udah nggak cocok. <selesai>
-<tanya> Hubungan terasa berat dan nggak bahagia lagi, mending bertahan atau move on? <jawab> Evaluasi dulu, kalau udah nggak ada kebahagiaan dan usaha, move on. <selesai>
 <tanya> Pasangan minta foto atau video pribadi, mending kasih atau nggak? <jawab> Nggak, itu risiko besar buat privasi. <selesai>
-<tanya> Public affection, mending pelukan atau gandengan tangan? <jawab> Gandengan tangan lebih sopan dan tetap hangat. <selesai>
 <tanya> Pasangan minta berbagi password media sosial, mending kasih atau nggak? <jawab> Nggak, privasi tetap penting meskipun sudah menikah. <selesai>
 <tanya> Ada perbedaan libido, mending diomongin atau diem? <jawab> Diomongin dengan dewasa, cari solusi bersama. <selesai>
-<tanya> Pasangan minta waktu sendiri, mending dikasih atau dipaksa? <jawab> Dikasih, setiap orang butuh me time. <selesai>
-<tanya> Pasangan minta kamu berubah, mending ikuti atau tetap? <jawab> Berubah kalau itu untuk kebaikan, tetap kalau itu siapa dirimu. <selesai>
-<tanya> Ada rasa tidak nyaman yang nggak jelas, mending tanya atau biarkan? <jawab> Tanya dengan lembut, biar nggak jadi beban pikiran. <selesai>
 <tanya> Pasangan minta quality time, mending ngapain? <jawab> Lakukan hal sederhana, seperti jalan bareng atau masak bersama. <selesai>
 <tanya> Pasangan minta dipuji, mending sering atau sewajarnya? <jawab> Sewajarnya, tapi jangan pelit pujian. <selesai>
 <tanya> Ada ketidakcocokan soal gaya hidup, mending kompromi atau masing-masing? <jawab> Kompromi, cari yang nyaman buat berdua. <selesai>
@@ -896,12 +884,8 @@
 <tanya> Pindah kerja ke luar kota, mending bawa keluarga atau LDR? <jawab> Bawa kalau memungkinkan, LDR kalau sementara. <selesai>
 <tanya> Istri bekerja, mending full time atau part time? <jawab> Tergantung kesepakatan dan kebutuhan keluarga. <selesai>
 <tanya> Memilih pasangan hidup, mending yang kaya atau yang baik? <jawab> Yang baik lebih penting, kekayaan bisa dicari bersama. <selesai>
-<tanya> Pensiun dini, mending ambil atau lanjut kerja? <jawab> Ambil kalau sudah cukup dana, lanjut kalau masih butuh. <selesai>
 <tanya> Mengambil kredit usaha, mending besar atau kecil? <jawab> Kecil dulu buat coba-coba, besar kalau sudah yakin. <selesai>
-<tanya> Pindah agama karena pernikahan, mending diikuti atau dipertahankan? <jawab> Komunikasi matang, jangan terburu-buru. <selesai>
-<tanya> Anak mau kuliah di luar negeri, mending didukung atau dicari lokal? <jawab> Dukung kalau ada beasiswa atau kemampuan finansial. <selesai>
 <tanya> Memilih jalur karier, mending stabil atau berisiko? <jawab> Stabil buat tenang, berisiko buat cepat berkembang. <selesai>
-<tanya> Pisah rumah dengan orang tua, mending karena konflik atau kemandirian? <jawab> Kemandirian lebih baik, konflik sebaiknya diselesaikan dulu. <selesai>
 <tanya> Investasi properti, mending tanah atau rumah? <jawab> Tanah untuk investasi, rumah untuk hunian. <selesai>
 <tanya> Mengambil polis asuransi jiwa, mending besar atau kecil? <jawab> Sesuai kebutuhan dan kemampuan bayar premi. <selesai>
 <tanya> Memiliki anak angkat, mending dipertimbangkan atau tidak? <jawab> Pertimbangkan matang, butuh kesiapan mental dan finansial. <selesai>
@@ -912,7 +896,6 @@
 <tanya> Membangun rumah, mending desain minimalis atau klasik? <jawab> Minimalis lebih praktis dan hemat perawatan. <selesai>
 <tanya> Memilih tempat tinggal, mending dekat kantor atau dekat sekolah anak? <jawab> Pertimbangkan akses dan kenyamanan keluarga. <selesai>
 <tanya> Menentukan warisan, mending dibuat wasiat atau dibiarkan? <jawab> Buat wasiat biar jelas dan nggak jadi konflik. <selesai>
-<tanya> Pensiun, mending di kota atau di kampung halaman? <jawab> Kampung halaman lebih tenang dan dekat keluarga. <selesai>
 <tanya> Memutuskan untuk rujuk setelah cerai, mending dicoba atau tidak? <jawab> Dicoba kalau masalah dulu sudah selesai dan ada komitmen baru. <selesai>
 <tanya> Membangun masa depan, mending fokus karir atau keluarga? <jawab> Seimbang, karir buat masa depan, keluarga buat kebahagiaan. <selesai>
 <tanya> Harus sarapan atau nggak? <jawab> Sarapan penting buat energi, jangan skip. <selesai>
@@ -1150,8 +1133,6 @@
 <tanya> Asuransi perjalanan, mending ambil atau tidak? <jawab> Ambil kalau perjalanan jauh atau ke luar negeri. <selesai>
 <tanya> Asuransi mobil, mending all risk atau TLO? <jawab> All risk untuk mobil baru, TLO untuk mobil tua. <selesai>
 <tanya> Asuransi kesehatan, mending premi besar dengan manfaat banyak atau kecil dengan manfaat dasar? <jawab> Sesuai kemampuan, lebih baik memiliki perlindungan dasar daripada tidak sama sekali. <selesai>
-<tanya> Buka usaha, mending modal sendiri atau pinjam bank? <jawab> Modal sendiri lebih aman, pinjam bank kalau yakin. <selesai>
-<tanya> Usaha lagi sepi, mending bertahan atau tutup? <jawab> Evaluasi dulu, kalau masih ada harapan bertahan. <selesai>
 <tanya> Memilih supplier, mending yang murah atau yang terpercaya? <jawab> Terpercaya lebih penting, murah bisa menipu. <selesai>
 <tanya> Usaha, mending online atau offline? <jawab> Online lebih fleksibel dan murah, offline untuk pengalaman langsung. <selesai>
 <tanya> Bisnis, mending sendiri atau patungan? <jawab> Sendiri untuk kontrol penuh, patungan untuk modal besar. <selesai>
@@ -1180,7 +1161,6 @@
 <tanya> Ambil kursus online, mending yang berbayar atau gratis? <jawab> Berbayar biasanya lebih terstruktur, gratis untuk pengenalan. <selesai>
 <tanya> Menambah skill, mending yang sesuai minat atau kebutuhan kerja? <jawab> Kebutuhan kerja untuk karir, minat untuk kebahagiaan. <selesai>
 <tanya> Ikut pelatihan, mending di kantor atau di luar? <jawab> Kantor untuk biaya murah, luar untuk networking. <selesai>
-<tanya> Pensiun, mending di kota atau di kampung halaman? <jawab> Kampung halaman lebih tenang dan dekat keluarga. <selesai>
 <tanya> Menikah, mending muda atau setelah karir mapan? <jawab> Setelah karir mapan lebih siap finansial. <selesai>
 <tanya> Punya anak, mending satu atau banyak? <jawab> Sesuai kemampuan dan keinginan, yang penting berkualitas. <selesai>
 <tanya> Memilih pasangan hidup, mending yang kaya atau yang baik? <jawab> Yang baik lebih penting, kekayaan bisa dibangun bersama. <selesai>
@@ -1188,7 +1168,6 @@
 <tanya> Merencanakan warisan, mending dibuat wasiat atau dibiarkan? <jawab> Buat wasiat biar jelas dan nggak jadi konflik. <selesai>
 <tanya> Membangun rumah, mending di atas tanah sendiri atau kavling? <jawab> Tanah sendiri lebih aman, kavling kalau ada budget. <selesai>
 <tanya> Menabung untuk haji/umrah, mending sendiri atau ikut program? <jawab> Ikut program lebih terarah. <selesai>
-<tanya> Memilih tempat tinggal, mending dekat kantor atau dekat sekolah anak? <jawab> Pertimbangkan akses dan kenyamanan keluarga. <selesai>
 <tanya> Pensiun, mending punya usaha sendiri atau bercocok tanam? <jawab> Usaha sendiri untuk penghasilan, bercocok tanam untuk hobi. <selesai>
 <tanya> Sedekah, mending rutin atau insidental? <jawab> Rutin lebih baik meskipun kecil. <selesai>
 <tanya> Donasi ke masjid/gereja, mending kasih uang atau barang? <jawab> Uang lebih fleksibel, barang jika dibutuhkan. <selesai>
