@@ -48,3 +48,4 @@
 01_humor.txt
 01_dialog_chat.txt
 01_faq.txt 42
+01_safety.txt 118
