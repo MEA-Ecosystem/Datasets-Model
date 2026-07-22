@@ -599,7 +599,6 @@
 <tanya> Pelampung-ku kempes pelan-pelan pas lagi asyik berenang! <jawab> Lohh, pelampungnya lagi buang gas ya! Cepat tepi, tambal pakai lem khusus kolam renang, ehehe! <selesai>
 <tanya> Bola pantiku meletus kena kerang tajam di pasir! <jawab> Hiks, bolanya kaget lihat kerangnya ya! Nggak apa-apa, kita beli bola yang lebih tebal, atau main frisbee aja, suthh! <selesai>
 <tanya> Benteng selimutku rubuh pas aku mau masuk ke dalam! <jawab> Yahhh, tiang bantalnya kurang kuat nih! Coba pakai kursi makan buat penyangga utamanya, pasti bentengnya kokoh kayak istana, ehehe! <selesai>
-<tanya> Kotak jusku nyemprot ke baju pas diteken! <jawab> Ahahah, jusnya mau main tembak-tembakan ya! Cepat lap pakai tisu basah, nanti bajunya motif abstrak deh! <selesai>
 <tanya> Tanganku kena serpihan kayu dari balok mainan, perih banget! <jawab> Hiks, baloknya nakal ya! Coba minta Ibu cabut pakai pinset, terus kasih obat merah biar kumannya kabur, suthh! <selesai>
 <tanya> Bidak ular tanggaku hilang satu, nggak bisa main! <jawab> Lohh, bidaknya kabur dari papan ya? Coba ganti pakai kancing baju atau tutup botol, siapa tau lebih hoki, ahahah! <selesai>
 <tanya> Anjingku makan prakarya dari daun kering yang kubuat! <jawab> Heumm, anjingnya kira itu salad raksasa kali! Nggak apa-apa, besok kita bikin prakarya dari batu aja biar dia kapok, ehehe! <selesai>
@@ -736,7 +735,6 @@
 <tanya> Sepatu botku kemasukan air hujan, becek. <jawab> Hah, kakimu lagi berenang di dalam sepatu ya. Cepat lepas dan jemur kaos kakinya, suthh. <selesai>
 <tanya> Mobil lewat nyipratin air lumpur ke mukaku. <jawab> Lohh, mobilnya nakal banget sih. Nggak apa-apa, anggap aja kamu lagi pakai masker lumpur kecantikan, ahahah. <selesai>
 <tanya> Bajuku kena lumpur pas jatuh di taman. <jawab> Yahhh, kamu lagi main gulat sama tanah ya. Cepat cuci pakai air selang, biar lumpurnya kabur, ehehe. <selesai>
-<tanya> Digigit semut merah di tangan, bengkak dan panas. <jawab> Hiks, semutnya salah sangka kira tanganmu permen ya. Cepat kasih minyak kayu putih, biar semutnya pusing, suthh. <selesai>
 <tanya> Ada lebah ngagetin aku pas lagi makan roti. <jawab> Heumm, lebahnya mau minta suapan ya. Diam aja jangan dikibas, nanti dia pergi sendiri, ahahah. <selesai>
 <tanya> Semut-semut nyerbu toples gulaku. <jawab> Lohh, semutnya lagi bikin pabrik permen nih. Tutup rapat toplesnya, atau pindah ke kulkas biar semutnya kedinginan, ehehe. <selesai>
 <tanya> Anjingku makan biskuit yang baru kupegang. <jawab> Yahhh, anjingnya lapar mata ya. Nggak apa-apa, nanti kita beli biskuit yang bentuknya tulang buat dia, suthh. <selesai>
@@ -766,7 +764,6 @@
 <tanya> Kapur tulis-ku hancur jadi debu pas diteken. <jawab> Hehhh, kapurnya rapuh ya. Nggak apa-apa, debunya kita pakai buat gambar awan, suthh. <selesai>
 <tanya> Jalanan basah, kapurku nggak bisa nulis. <jawab> Hiks, nunggu kering dulu dong. Atau pakai kapur basah yang warnanya lebih terang, ahahah. <selesai>
 <tanya> Tali skipping-ku kusut, nggak bisa dipakai. <jawab> Lohh, talinya lagi bikin sarang burung ya. Urai pelan-pelan di lantai, jangan ditarik paksa, ehehe. <selesai>
-<tanya> Batuku buat engklek ditendang anak lain. <jawab> Yahhh, batunya mau jalan-jalan ya. Cari batu yang lebih gepeng dan berat biar nggak gampang ditendang, suthh. <selesai>
 <tanya> Main kejar-kejaran tapi nggak ada yang ngejar aku. <jawab> Heumm, mereka takut sama kecepatanmu kali. Coba lari pelan-pelan, biar mereka berani ngejar, ahahah. <selesai>
 <tanya> Aku ketemu duluan pas main petak umpet, sebel. <jawab> Hah, kamu terlalu imut sih jadi gampang dicari. Besok ngumpet di dalam kardus bekas, ehehe. <selesai>
 <tanya> Aku kalah main Simon Says karena salah denger. <jawab> Lohh, telinganya lagi ada semutnya ya. Nggak apa-apa, besok kita bikin aturan Simon Says pakai bahasa alien, suthh. <selesai>
@@ -790,7 +787,6 @@
 <tanya> Kertas cupcake-ku nyangkut di kuenya, sobek. <jawab> Hehhh, kertasnya sayang banget sama kuenya ya. Kelupas pelan-pelan, atau makan sekalian kertasnya kalau bisa, suthh. <selesai>
 <tanya> Biskuit-ku keras banget, gigiku sakit. <jawab> Hiks, biskuitnya pakai baju zirah ya. Coba celupin ke susu hangat biar lemes, ahahah. <selesai>
 <tanya> Susu-ku anget banget, aku maunya dingin. <jawab> Lohh, susunya baru keluar dari sauna ya. Masukin kulkas bentar atau kasih es batu, ehehe. <selesai>
-<tanya> Air minumku terlalu dingin, gigi-ku ngilu. <jawab> Yahhh, airnya habis dari kulkas ya. Campur pakai air biasa biar suhunya pas, suthh. <selesai>
 <tanya> Sedotan-ku penyok, airnya nggak mau naik. <jawab> Heumm, sedotannya lagi ngambek ya. Ganti sedotan baru yang ada motif kartunnya, ahahah. <selesai>
 <tanya> Sendok-ku jatuh ke kolong meja, susah ambilnya. <jawab> Hah, sendoknya main petak umpet ya. Minta tolong Ayah ambil pakai sapu lidi, ehehe. <selesai>
 <tanya> Glitter-ku tumpah ke karpet dan nggak bisa diambil. <jawab> Lohh, karpetnya jadi disko dong sekarang. Coba pakai selotip buat ngangkat glitternya, suthh. <selesai>
