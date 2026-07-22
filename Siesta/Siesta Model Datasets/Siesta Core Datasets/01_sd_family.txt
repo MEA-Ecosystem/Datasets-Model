@@ -1,39 +1,30 @@
 <tanya> Aku dimarahin mama gara-gara lupa beresin kamar. <jawab> Loh kok bisa lupa? <selesai>
 <tanya> Aku dimarahin mama gara-gara lupa beresin kamar. <jawab> gapapa gapapa, mama pasti cuma pengen kamarmu rapi kok. <selesai>
 <tanya> Aku dimarahin mama gara-gara lupa beresin kamar. <jawab> gimana kalo bikin jadwal biar inget, biar nggak dimarahin. <selesai>
-
 <tanya> Papa nyuruh aku belajar terus padahal aku pengen main. <jawab> emang di suruh belajar apa? <selesai>
 <tanya> Papa nyuruh aku belajar terus padahal aku pengen main. <jawab> Papa pasti pengen kamu jadi pinter kok. <selesai>
 <tanya> Papa nyuruh aku belajar terus padahal aku pengen main. <jawab> Coba selesein dulu belajarnya, abis itu main deh. <selesai>
-
 <tanya> Aku dibandingin sama kakakku sama orang tua. <jawab> Dibandingin soal apa emang? <selesai>
 <tanya> Aku dibandingin sama kakakku sama orang tua. <jawab> Itu nggak enak ya, padahal kamu punya kelebihan sendiri. <selesai>
 <tanya> Aku dibandingin sama kakakku sama orang tua. <jawab> IHH itu nyebelin sih coba ceritain. <selesai>
-
 <tanya> Orang tuaku nggak ngizinin aku main game lama-lama. <jawab> Biasanya boleh main berapa lama? <selesai>
 <tanya> Orang tuaku nggak ngizinin aku main game lama-lama. <jawab> heumm, kaya nya orang tua kamu gamau mata kamu kenapa kenapa deh. <selesai>
 <tanya> Orang tuaku nggak ngizinin aku main game lama-lama. <jawab> Coba deh atur waktu biar tetep bisa main tapi nggak kelamaan. <selesai>
-
 <tanya> Mama nggak percaya aku pas aku cerita jujur. <jawab> Cerita apa emang yang nggak dipercaya? <selesai>
 <tanya> Mama nggak percaya aku pas aku cerita jujur. <jawab> Pasti nyebelin ya udah jujur tapi nggak dipercaya. <selesai>
 <tanya> Mama nggak percaya aku pas aku cerita jujur. <jawab> Coba jelasin lagi pelan-pelan, mungkin mama belum ngerti. <selesai>
-
 <tanya> Aku takut cerita ke orang tua soalnya nilai jelek. <jawab> Nilai berapa emang yang bikin takut? <selesai>
 <tanya> Aku takut cerita ke orang tua soalnya nilai jelek. <jawab> gapapa kok, orang tuamu pasti tetep sayang kamu kok. <selesai>
 <tanya> Aku takut cerita ke orang tua soalnya nilai jelek. <jawab> Coba cerita aja jujur, biasanya lebih lega. <selesai>
-
 <tanya> Orang tuaku sibuk kerja jadi jarang ngobrol sama aku. <jawab> Sibuknya kerja apa emang? <selesai>
 <tanya> Orang tuaku sibuk kerja jadi jarang ngobrol sama aku. <jawab> Itu pasti bikin kangen ya, tapi mereka kerja juga buat kamu kok. <selesai>
 <tanya> Orang tuaku sibuk kerja jadi jarang ngobrol sama aku. <jawab> Coba ajak ngobrol pas mereka lagi santai, siapa tau bisa. <selesai>
-
 <tanya> Aku pengen jajan tapi orang tua nggak kasih uang. <jawab> Jajan apa emang yang pengen dibeli? <selesai>
 <tanya> Aku pengen jajan tapi orang tua nggak kasih uang. <jawab> Mungkin lagi hemat kali ya orang tuamu. <selesai>
 <tanya> Aku pengen jajan tapi orang tua nggak kasih uang. <jawab> Coba nabung dulu, biar bisa beli sendiri nanti. <selesai>
-
 <tanya> Aku dimarahin papa gara-gara berantem sama adik. <jawab> Berantemnya soal apa emang? <selesai>
 <tanya> Aku dimarahin papa gara-gara berantem sama adik. <jawab> Papa pasti pengen kalian akur kok. <selesai>
 <tanya> Aku dimarahin papa gara-gara berantem sama adik. <jawab> udah maafan belumm?. <selesai>
-
 <tanya> Orang tuaku nggak setuju sama hobiku. <jawab> Hobi apa emang yang nggak disetujuin? <selesai>
 <tanya> Orang tuaku nggak setuju sama hobiku. <jawab> Mungkin mereka khawatir aja soal itu. <selesai>
 <tanya> Orang tuaku nggak setuju sama hobiku. <jawab> Coba ngobrol pelan-pelan, siapa tau setuju. <selesai>
