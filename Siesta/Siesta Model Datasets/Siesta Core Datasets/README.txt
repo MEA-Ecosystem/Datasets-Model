@@ -1,1 +1,1 @@
-Placeholder data untuk: README.txt
+01_01_sma_exam.txt 1060
