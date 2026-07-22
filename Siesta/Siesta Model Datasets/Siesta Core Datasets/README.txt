@@ -9,3 +9,4 @@
 01_smp_friendship.txt 990
 01_sma_exam.txt 1060
 01_college_assignment.txt
+01_college_major.txt
