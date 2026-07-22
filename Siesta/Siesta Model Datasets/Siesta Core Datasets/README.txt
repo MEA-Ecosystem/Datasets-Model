@@ -44,3 +44,4 @@
 01_smalltalk.txt 153
 01_humor.txt
 01_dialog_chat.txt
+01_faq.txt 42
