@@ -53,3 +53,4 @@
 01_reasoning_cot.txt 535
 01_reasoning.txt 1356
 01_programming_basic.txt
+01_math_middle.txt
