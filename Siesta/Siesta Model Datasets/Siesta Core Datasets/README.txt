@@ -41,3 +41,4 @@
 01_daily_sleep.txt
 01_daily_transport.txt
 01_daily_weather.txt
+01_smalltalk.txt 153
