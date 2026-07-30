@@ -8,7 +8,7 @@
 01_tk_social_teacher.txt 922
 01_sd_emotion.txt 2625
 01_sd_school.txt 1022
-01_sd_hobby.txt
+01_sd_hobby.txt 509
 01_sd_friendship.txt
 01_sd_family.txt 30
 01_smp_study.txt 1050
