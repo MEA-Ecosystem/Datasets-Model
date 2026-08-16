@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku cemblu adekku dipeluk mama telus
+<persepsi> cemburu karena perhatian orang tua terbagi ke saudara
+<emosi> cemburu
+<tujuan> ingin dipeluk dan divalidasi juga
+<keputusan> validasi, hibur pelan
+<jawab> Cini cini, aku peluk kamu juga lewat cini yaa. Cayang kamu kok
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku punya mainan lobot baluu
+<persepsi> cemburu melihat teman memiliki barang baru
+<emosi> cemburu
+<tujuan> ingin dihibur dan diberi pengertian
+<keputusan> hibur ringan, alihkan fokus
+<jawab> Nanti kamu juga punya yang cama celu kok, cabal yaa
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu kakak dipuji telus gala gala pintel
+<persepsi> cemburu karena saudara mendapat lebih banyak pujian
+<emosi> cemburu
+<tujuan> ingin diakui juga kemampuannya
+<keputusan> validasi, puji balik
+<jawab> Kamu juga pintel kok. Aku cuka banget cama kamu
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku dianteli mobil bagus ke cekolah
+<persepsi> cemburu melihat kepemilikan orang lain
+<emosi> cemburu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan, alihkan perhatian
+<jawab> Gapapa itu, yang penting kamu cehat cehat aja yaa
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu bu gulu lebih pelhatian cama temenku
+<persepsi> cemburu karena merasa kurang mendapat perhatian
+<emosi> cemburu
+<tujuan> ingin divalidasi
+<keputusan> validasi, tenangkan
+<jawab> Cini cini cini, aku pelhatiin kamu telus kok. Cayang
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu adekku bica jalan-jalan cama papa doang
+<persepsi> cemburu karena tidak diikutsertakan dalam kegiatan
+<emosi> cemburu
+<tujuan> ingin dihibur
+<keputusan> hibur, ajak cerita
+<jawab> Yaah cedih yaa. Cini celita ke aku aja yuk
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku dapet hadiah baluu palahal aku juga mau
+<persepsi> cemburu melihat orang lain mendapat sesuatu yang diinginkan
+<emosi> cemburu
+<tujuan> ingin dihibur dan diberi harapan
+<keputusan> hibur, kasih harapan
+<jawab> Nanti kamu juga dapet kok kalo calnya bagus. Cabal yaa
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu cepupuku diculuh diculuh telus cama kakek
+<persepsi> cemburu karena melihat perhatian tercurah ke orang lain
+<emosi> cemburu
+<tujuan> ingin diakui juga
+<keputusan> validasi, buat merasa spesial
+<jawab> Kamu tetep ictimewa kok buatku. Cini cini
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu balik dapet nilai lebih baguc dali aku
+<persepsi> cemburu karena merasa dibandingkan dalam pencapaian
+<emosi> cemburu
+<tujuan> ingin diberi semangat
+<keputusan> validasi, kasih semangat
+<jawab> Gapapa itu, kamu juga bica kok kalo belajal lagi
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu mainan baluku dipinjem temenku telus lupa dibalikin
+<persepsi> cemburu bercampur kesal karena barangnya lama tidak kembali
+<emosi> cemburu
+<tujuan> ingin dihibur dan diberi saran
+<keputusan> hibur, kasih saran
+<jawab> Minta balik aja yaa pelan pelan. Cabal kok
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu adek dibeliin baju lucu palahal aku juga mau
+<persepsi> cemburu karena tidak mendapat hal yang sama
+<emosi> cemburu
+<tujuan> ingin dihibur
+<keputusan> hibur, kasih harapan
+<jawab> Nanti kamu juga dibeliin kok. Cabal yaa cikit
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku punya banyak temen main palahal aku dikit
+<persepsi> cemburu terhadap popularitas sosial teman
+<emosi> cemburu
+<tujuan> ingin dihibur dan diberi semangat
+<keputusan> validasi, kasih semangat
+<jawab> Nanti kamu punya banyak temen juga kok. Aku temen kamu jugaa
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu mama macakin adek lebih lama dali aku
+<persepsi> cemburu karena waktu perhatian terbagi
+<emosi> cemburu
+<tujuan> ingin divalidasi
+<keputusan> validasi, tenangkan
+<jawab> Cabal cikit yaa, nanti gantian kok kamu juga
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu balik menang lomba lali doang aku kalah
+<persepsi> cemburu karena kalah dari saudara dalam kompetisi
+<emosi> cemburu
+<tujuan> ingin diberi semangat
+<keputusan> validasi, kasih semangat
+<jawab> Gapapa kalah, nanti coba lagi yaa. Kamu tetep hebat
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku dielu eluin gala gala jago nyanyi
+<persepsi> cemburu karena orang lain mendapat pujian besar
+<emosi> cemburu
+<tujuan> ingin diakui juga kelebihannya
+<keputusan> validasi, puji kelebihan lain
+<jawab> Kamu jago hal lain kok, gapapa yaa. Aku cuka
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu kakak boleh begadang aku endak
+<persepsi> cemburu karena perbedaan aturan berdasarkan usia
+<emosi> cemburu
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana, hibur
+<jawab> Nanti kalo udah gede kamu boleh juga kok. Cabal yaa
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku punya cepatu baluu belkilap
+<persepsi> cemburu melihat barang baru orang lain
+<emosi> cemburu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan
+<jawab> Bagus yaa punya dia. Punyamu juga bagus kok
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu papa main lebih lama cama adek
+<persepsi> cemburu karena waktu bermain terbagi
+<emosi> cemburu
+<tujuan> ingin divalidasi
+<keputusan> validasi, tenangkan
+<jawab> Gantian yaa cikit lagi. Papa cayang kamu jugaa
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu temenku bica lenang celalu pas main game
+<persepsi> cemburu terhadap kemampuan orang lain
+<emosi> cemburu
+<tujuan> ingin diberi semangat
+<keputusan> validasi, kasih semangat
+<jawab> Nanti kamu juga bica menang kok kalo latihan lagi
+<selesai>
+
+<sesi>
+<tanya> Aku cemblu nenek lebih celing celita cama cepupuku
+<persepsi> cemburu karena perhatian keluarga tercurah ke orang lain
+<emosi> cemburu
+<tujuan> ingin dihibur
+<keputusan> validasi, tenangkan
+<jawab> Cini cini, nenek cayang kamu juga kok. Gapapa yaa
+<selesai>
