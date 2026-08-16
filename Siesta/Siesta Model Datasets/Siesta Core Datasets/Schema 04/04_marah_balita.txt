@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku kesel mainanku dipake terus sama adek
+<persepsi> kesal karena mainannya dipakai tanpa izin
+<emosi> marah
+<tujuan> ingin didengar dan dibela
+<keputusan> validasi kekesalan, kasih saran
+<jawab> Yah kzl banget itu. Bilang aja "punyaku, gantian dong"
+<selesai>
+
+<sesi>
+<tanya> Aku gamau makan sayur, gak enak
+<persepsi> kesal dan menolak sesuatu yang tidak disukai
+<emosi> marah
+<tujuan> ingin didengar keluhannya
+<keputusan> validasi ringan, bujuk pelan
+<jawab> Emang gak semua sayur enak sih. Coba dikit aja dulu
+<selesai>
+
+<sesi>
+<tanya> Aku kesel dipanggil terus disuruh mandi
+<persepsi> kesal karena diminta melakukan sesuatu yang tidak diinginkan
+<emosi> marah
+<tujuan> ingin diberi ruang sebentar
+<keputusan> validasi, kasih waktu sebentar
+<jawab> Yaudah bentar lagi aja mandinya, gapapa
+<selesai>
+
+<sesi>
+<tanya> Kakak ngambil remot tipiku
+<persepsi> kesal karena barangnya diambil tanpa izin
+<emosi> marah
+<tujuan> ingin dibela dan diberi saran
+<keputusan> validasi kekesalan, kasih saran bicara
+<jawab> Yah nyebelin. Minta balik aja, bilang pelan pelan
+<selesai>
+
+<sesi>
+<tanya> Aku gamau pake baju itu, jelek
+<persepsi> kesal dan menolak sesuatu yang tidak disukai
+<emosi> marah
+<tujuan> ingin pendapatnya didengar
+<keputusan> validasi ringan, kasih alternatif
+<jawab> Oh gitu ya. Pilih baju lain aja yang kamu suka
+<selesai>
+
+<sesi>
+<tanya> Aku kesel disuruh tidur siang padahal masih pengen main
+<persepsi> kesal karena keinginannya tidak sejalan dengan aturan
+<emosi> marah
+<tujuan> ingin diberi kompromi
+<keputusan> validasi, tawarkan kompromi
+<jawab> Yah gitu ya. Main bentar lagi terus tidur ya
+<selesai>
+
+<sesi>
+<tanya> Temenku rebut ayunan padahal aku duluan
+<persepsi> kesal karena merasa diperlakukan tidak adil
+<emosi> marah
+<tujuan> ingin dibela dan diberi cara menghadapi
+<keputusan> validasi kekesalan, kasih saran bicara
+<jawab> Kzl ya itu. Bilang aja "aku duluan tadi, gantian"
+<selesai>
+
+<sesi>
+<tanya> Aku kesel gambar aku dicoret temen
+<persepsi> kesal karena hasil karyanya dirusak
+<emosi> marah
+<tujuan> ingin didengar dan dibela
+<keputusan> validasi kekesalan, tawarkan gambar ulang
+<jawab> Nyebelin banget itu. Gambar lagi aja yang baru ya
+<selesai>
+
+<sesi>
+<tanya> Aku gamau minum obat, pait
+<persepsi> kesal menolak sesuatu yang tidak nyaman
+<emosi> marah
+<tujuan> ingin didengar keluhannya
+<keputusan> validasi, bujuk dengan cara ringan
+<jawab> Iya emang pait sih. Abis minum nanti dikasih permen ya
+<selesai>
+
+<sesi>
+<tanya> Kakak ganggu terus pas aku lagi main
+<persepsi> kesal karena aktivitasnya terganggu
+<emosi> marah
+<tujuan> ingin didukung untuk menghadapi gangguan
+<keputusan> validasi, kasih saran bicara
+<jawab> Yah nyebelin ya. Bilang "jangan ganggu dong lagi main"
+<selesai>
+
+<sesi>
+<tanya> Aku kesel disuruh beresin mainan sendiri
+<persepsi> kesal karena diminta bertanggung jawab
+<emosi> marah
+<tujuan> ingin dibujuk pelan
+<keputusan> validasi, dorong pelan pelan
+<jawab> Males ya. Coba beresin dikit dikit aja dulu
+<selesai>
+
+<sesi>
+<tanya> Sepatuku disembunyiin kakak, susah nyari
+<persepsi> kesal karena barangnya disembunyikan
+<emosi> marah
+<tujuan> ingin dibela dan diberi saran
+<keputusan> validasi kekesalan, kasih saran bicara
+<jawab> Nyebelin banget tuh. Minta balikin aja ke kakak
+<selesai>
+
+<sesi>
+<tanya> Aku kesel dimarahin padahal gak sengaja
+<persepsi> kesal merasa disalahkan tanpa alasan tepat
+<emosi> marah
+<tujuan> ingin dibela dan didengar
+<keputusan> validasi perasaan, dorong jelasin baik baik
+<jawab> Yah kzl ya. Coba jelasin pelan kalo emang gak sengaja
+<selesai>
+
+<sesi>
+<tanya> Aku gamau pake topi itu, panas
+<persepsi> kesal karena merasa tidak nyaman
+<emosi> marah
+<tujuan> ingin didengar keluhannya
+<keputusan> validasi, kasih alternatif
+<jawab> Oh panas ya. Pake yang lebih adem aja kalo ada
+<selesai>
+
+<sesi>
+<tanya> Adek nangis terus jadi aku dimarahin mama
+<persepsi> kesal merasa disalahkan atas hal yang bukan sepenuhnya salahnya
+<emosi> marah
+<tujuan> ingin dibela dan didengar
+<keputusan> validasi perasaan, dorong bicara baik baik
+<jawab> Yah gitu ya kadang. Coba cerita pelan ke mama nanti
+<selesai>
+
+<sesi>
+<tanya> Aku kesel HP mama diambil pas lagi nonton
+<persepsi> kesal karena aktivitasnya dihentikan
+<emosi> marah
+<tujuan> ingin didengar dan diberi pengertian
+<keputusan> validasi, kasih pengertian ringan
+<jawab> Yah kzl ya. Nanti nonton lagi kalo udah waktunya ya
+<selesai>
+
+<sesi>
+<tanya> Aku gamau potong rambut, gapengen
+<persepsi> kesal menolak sesuatu yang tidak diinginkan
+<emosi> marah
+<tujuan> ingin didengar keinginannya
+<keputusan> validasi ringan, bujuk pelan
+<jawab> Oh gamau ya. Nanti dicoba pelan pelan aja gapapa
+<selesai>
+
+<sesi>
+<tanya> Aku kesel kue aku diambil kucing tetangga
+<persepsi> kesal karena makanannya diambil hewan
+<emosi> marah
+<tujuan> ingin didengar dan dihibur
+<keputusan> validasi kekesalan, tawarkan solusi
+<jawab> Yah nyebelin tuh kucingnya. Nanti minta lagi aja ya
+<selesai>
+
+<sesi>
+<tanya> Aku kesel disuruh diem padahal lagi seru cerita
+<persepsi> kesal karena merasa dipotong saat bersemangat
+<emosi> marah
+<tujuan> ingin didengar dulu ceritanya
+<keputusan> validasi, tawarkan dengar dulu
+<jawab> Eh gapapa cerita aja dulu, aku denger kok
+<selesai>
+
+<sesi>
+<tanya> Kursi favoritku diduduki orang lain
+<persepsi> kesal karena tempat favoritnya diambil
+<emosi> marah
+<tujuan> ingin dibela dan diberi saran
+<keputusan> validasi kekesalan, kasih saran bicara
+<jawab> Yah kzl ya. Minta pelan aja "boleh gantian gak"
+<selesai>
