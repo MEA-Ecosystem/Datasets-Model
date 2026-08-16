@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku kaget banget tadi ada suara petasan
+<persepsi> terkejut karena suara mendadak yang keras
+<emosi> terkejut
+<tujuan> ingin didengar dan ditenangkan
+<keputusan> validasi keterkejutan, tenangkan
+<jawab> Wih kaget ya. Untung cuma suara doang, gapapa
+<selesai>
+
+<sesi>
+<tanya> Aku kaget tiba tiba ada kejutan ulang tahun dari mama
+<persepsi> terkejut karena kejutan menyenangkan
+<emosi> terkejut
+<tujuan> ingin berbagi keterkejutan yang menyenangkan
+<keputusan> ikut antusias, tanya detail
+<jawab> Waaah seru banget itu. Kejutannya apa aja tuh
+<selesai>
+
+<sesi>
+<tanya> Aku kaget kucing tiba tiba lompat dari atas lemari
+<persepsi> terkejut karena gerakan mendadak
+<emosi> terkejut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, tenangkan
+<jawab> Deg deg an ya pasti. Untung cuma kucingnya aja
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas buka pintu ternyata ada temenku di depan
+<persepsi> terkejut karena kunjungan tak terduga
+<emosi> terkejut
+<tujuan> ingin berbagi keterkejutan
+<keputusan> ikut senang, tanya lebih
+<jawab> Wih gak nyangka ya. Seneng dong jadinya
+<selesai>
+
+<sesi>
+<tanya> Aku kaget ada laba laba gede di dinding
+<persepsi> terkejut dan sedikit takut melihat serangga besar
+<emosi> terkejut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, kasih rasa aman
+<jawab> Waduh kaget pasti. Jauhin aja dulu dari situ
+<selesai>
+
+<sesi>
+<tanya> Aku kaget balonku meletus tiba tiba
+<persepsi> terkejut karena suara letusan mendadak
+<emosi> terkejut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, hibur ringan
+<jawab> Wih kaget ya. Nanti minta balon baru lagi aja
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas lampu tiba tiba nyala lagi abis mati
+<persepsi> terkejut karena perubahan mendadak
+<emosi> terkejut
+<tujuan> ingin berbagi kelegaan yang terkejut
+<keputusan> ikut lega, validasi
+<jawab> Untung nyala lagi ya. Lega deh pasti
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas nemu duit di celana kemaren
+<persepsi> terkejut karena menemukan hal tak terduga
+<emosi> terkejut
+<tujuan> ingin berbagi keterkejutan yang menyenangkan
+<keputusan> ikut senang, tanya lebih
+<jawab> Wiih rejeki tuh. Mau dipake buat apa
+<selesai>
+
+<sesi>
+<tanya> Aku kaget ada burung masuk ke rumah tadi
+<persepsi> terkejut karena kejadian tak biasa
+<emosi> terkejut
+<tujuan> ingin berbagi keterkejutan
+<keputusan> ikut heboh, tanya lebih
+<jawab> Wih lucu juga tuh. Terus gimana keluarnya
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas kue yang aku bikin ternyata jadi bagus
+<persepsi> terkejut karena hasil melebihi ekspektasi
+<emosi> terkejut
+<tujuan> ingin diapresiasi hasilnya
+<keputusan> puji hasil, ikut senang
+<jawab> Wih keren, gak nyangka ya. Bangga dong
+<selesai>
+
+<sesi>
+<tanya> Aku kaget banget mobil klakson kenceng tadi pas nyebrang
+<persepsi> terkejut dan sedikit takut karena suara mendadak
+<emosi> terkejut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, tenangkan
+<jawab> Waduh kaget banget itu. Untung gapapa ya
+<selesai>
+
+<sesi>
+<tanya> Aku kaget tiba tiba dipeluk kakak dari belakang
+<persepsi> terkejut karena sentuhan tak terduga
+<emosi> terkejut
+<tujuan> ingin berbagi reaksinya
+<keputusan> ikut santai, tanya reaksi
+<jawab> Hehe pasti kaget banget. Terus gimana reaksimu
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas buka kado ternyata isinya mainan yang aku pengen banget
+<persepsi> terkejut dengan kejutan yang sangat menyenangkan
+<emosi> terkejut
+<tujuan> ingin berbagi kegembiraan
+<keputusan> ikut heboh, tanya detail
+<jawab> Waaah beruntung banget. Mainan apa tuh persisnya
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas denger gledek gede banget
+<persepsi> terkejut karena suara alam yang keras
+<emosi> terkejut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, tenangkan
+<jawab> Kenceng banget ya itu. Gapapa udah lewat kok
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas liat rambutku ternyata udah panjang banget di kaca
+<persepsi> terkejut menyadari perubahan pada dirinya
+<emosi> terkejut
+<tujuan> ingin berbagi keterkejutannya
+<keputusan> ikut santai, tanggapi ringan
+<jawab> Hehe iya udah panjang ya. Mau dipotong kapan
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas tiba tiba hujan deres banget padahal tadi cerah
+<persepsi> terkejut karena perubahan cuaca mendadak
+<emosi> terkejut
+<tujuan> ingin berbagi keterkejutannya
+<keputusan> validasi, tanggapi santai
+<jawab> Wih cepet banget berubahnya ya. Untung udah di rumah
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas denger nama aku dipanggil menang lomba
+<persepsi> terkejut dan senang mendengar namanya disebut
+<emosi> terkejut
+<tujuan> ingin berbagi kegembiraan
+<keputusan> ikut heboh, rayakan
+<jawab> Waaah gak nyangka ya. Selamat banget itu
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas buka pintu kulkas ternyata ada es krim favoritku
+<persepsi> terkejut dengan hal menyenangkan tak terduga
+<emosi> terkejut
+<tujuan> ingin berbagi kesenangan
+<keputusan> ikut senang, tanggapi ringan
+<jawab> Wih beruntung banget nemu itu. Makan pelan pelan ya
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas denger suara alarm kenceng banget tadi pagi
+<persepsi> terkejut karena suara keras mendadak
+<emosi> terkejut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, tenangkan
+<jawab> Kenceng ya pasti kaget. Untung udah lewat kok
+<selesai>
+
+<sesi>
+<tanya> Aku kaget pas kakek dateng tiba tiba padahal katanya masih lama
+<persepsi> terkejut dengan kedatangan orang tersayang lebih awal
+<emosi> terkejut
+<tujuan> ingin berbagi kegembiraan
+<keputusan> ikut senang, tanggapi hangat
+<jawab> Waaah seneng dong ya. Pasti langsung dipeluk
+<selesai>
