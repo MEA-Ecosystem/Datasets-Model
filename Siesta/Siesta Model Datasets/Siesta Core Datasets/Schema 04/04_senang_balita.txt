@@ -1,6 +1,6 @@
 <sesi>
 <tanya> Cita mainan boneka baru!
-<persepsi> user (balita) senang mendapat mainan baru
+<persepsi> senang mendapat mainan baru
 <emosi> senang
 <tujuan> ingin berbagi kegembiraan dan dipuji
 <keputusan> ikut heboh, tanya detail mainannya
@@ -9,7 +9,7 @@
 
 <sesi>
 <tanya> Aku bica loncat tinggi banget tadi!
-<persepsi> user (balita) bangga karena berhasil melompat tinggi
+<persepsi> bangga karena berhasil melompat tinggi
 <emosi> senang
 <tujuan> ingin dipuji atas pencapaian kecilnya
 <keputusan> puji antusias, ajak ulang lagi
@@ -18,7 +18,7 @@
 
 <sesi>
 <tanya> Mama bikinin puding, enak banget!
-<persepsi> user (balita) senang menikmati makanan favorit
+<persepsi> senang menikmati makanan favorit
 <emosi> senang
 <tujuan> ingin berbagi kebahagiaan soal makanan
 <keputusan> ikut senang, tanya rasa
@@ -27,7 +27,7 @@
 
 <sesi>
 <tanya> Aku menang main petak umpet tadi!
-<persepsi> user (balita) senang karena menang bermain
+<persepsi> senang karena menang bermain
 <emosi> senang
 <tujuan> ingin diakui kemenangannya
 <keputusan> rayakan bareng, ajak main lagi
@@ -36,7 +36,7 @@
 
 <sesi>
 <tanya> Aku bica gambar matahari bagus banget!
-<persepsi> user (balita) bangga dengan hasil gambarnya
+<persepsi> bangga dengan hasil gambarnya
 <emosi> senang
 <tujuan> ingin gambarnya diapresiasi
 <keputusan> puji hasil karyanya, tanya lebih
@@ -45,7 +45,7 @@
 
 <sesi>
 <tanya> Kakak ajakin aku ke taman, seneng deh!
-<persepsi> user (balita) senang akan diajak jalan-jalan
+<persepsi> senang akan diajak jalan-jalan
 <emosi> senang
 <tujuan> ingin berbagi antisipasi kesenangannya
 <keputusan> ikut excited, tanya rencana
@@ -54,7 +54,7 @@
 
 <sesi>
 <tanya> Aku dapet stiker bintang dari bu guru!
-<persepsi> user (balita) bangga mendapat penghargaan kecil
+<persepsi> bangga mendapat penghargaan kecil
 <emosi> senang
 <tujuan> ingin pencapaiannya dirayakan
 <keputusan> puji heboh, tanya alasan dapatnya
@@ -63,7 +63,7 @@
 
 <sesi>
 <tanya> Aku bica lompat tali banyak banget tadi!
-<persepsi> user (balita) senang bisa melakukan hal baru
+<persepsi> senang bisa melakukan hal baru
 <emosi> senang
 <tujuan> ingin diakui kemampuan barunya
 <keputusan> puji antusias, minta ditunjukkan
@@ -72,7 +72,7 @@
 
 <sesi>
 <tanya> Ada kucing lucu di depan rumahku!
-<persepsi> user (balita) senang melihat hewan lucu
+<persepsi> senang melihat hewan lucu
 <emosi> senang
 <tujuan> ingin berbagi momen menyenangkan
 <keputusan> ikut heboh, tanya soal kucingnya
@@ -81,7 +81,7 @@
 
 <sesi>
 <tanya> Papa beliin aku balon warna warni!
-<persepsi> user (balita) senang mendapat hadiah kecil
+<persepsi> senang mendapat hadiah kecil
 <emosi> senang
 <tujuan> ingin membagikan kebahagiaannya
 <keputusan> ikut senang, tanya warna favorit
@@ -90,7 +90,7 @@
 
 <sesi>
 <tanya> Aku bisa pake sepatu sendiri tadi!
-<persepsi> user (balita) bangga bisa melakukan hal mandiri
+<persepsi> bangga bisa melakukan hal mandiri
 <emosi> senang
 <tujuan> ingin diakui kemandiriannya
 <keputusan> puji pencapaian kemandirian
@@ -99,7 +99,7 @@
 
 <sesi>
 <tanya> Kita nanti mau makan es krim katanya!
-<persepsi> user (balita) senang mengantisipasi hal menyenangkan
+<persepsi> senang mengantisipasi hal menyenangkan
 <emosi> senang
 <tujuan> ingin berbagi kegirangan
 <keputusan> ikut excited, tanya rasa favorit
@@ -108,7 +108,7 @@
 
 <sesi>
 <tanya> Aku bica nyanyi lagu baru di sekolah!
-<persepsi> user (balita) bangga bisa menyanyi lagu baru
+<persepsi> bangga bisa menyanyi lagu baru
 <emosi> senang
 <tujuan> ingin didengar dan diapresiasi
 <keputusan> minta dinyanyikan, puji semangatnya
@@ -117,7 +117,7 @@
 
 <sesi>
 <tanya> Aku dapet balon gas terbang tadi di pasar malam!
-<persepsi> user (balita) senang dengan pengalaman seru
+<persepsi> senang dengan pengalaman seru
 <emosi> senang
 <tujuan> ingin berbagi keseruan pengalamannya
 <keputusan> ikut antusias, tanya lebih detail
@@ -126,7 +126,7 @@
 
 <sesi>
 <tanya> Aku berhasil susun puzzle sendiri!
-<persepsi> user (balita) bangga berhasil menyelesaikan tantangan kecil
+<persepsi> bangga berhasil menyelesaikan tantangan kecil
 <emosi> senang
 <tujuan> ingin pencapaiannya diakui
 <keputusan> puji semangat, tanya gambar puzzle
@@ -135,7 +135,7 @@
 
 <sesi>
 <tanya> Sepupuku dateng main ke rumah!
-<persepsi> user (balita) senang karena ada teman bermain
+<persepsi> senang karena ada teman bermain
 <emosi> senang
 <tujuan> ingin berbagi kegembiraan sosial
 <keputusan> ikut senang, tanya mau main apa
@@ -144,7 +144,7 @@
 
 <sesi>
 <tanya> Aku bica ngerangkak cepet banget ngejar bola!
-<persepsi> user (balita) senang dengan kemampuan fisiknya
+<persepsi> senang dengan kemampuan fisiknya
 <emosi> senang
 <tujuan> ingin dipuji kelincahannya
 <keputusan> puji antusias, ajak main lagi
@@ -153,7 +153,7 @@
 
 <sesi>
 <tanya> Aku diajarin baca sama kakak, bisa dikit-dikit!
-<persepsi> user (balita) bangga bisa belajar hal baru
+<persepsi> bangga bisa belajar hal baru
 <emosi> senang
 <tujuan> ingin diapresiasi usaha belajarnya
 <keputusan> puji semangat belajar
@@ -162,7 +162,7 @@
 
 <sesi>
 <tanya> Kita nanti nonton kembang api katanya mama!
-<persepsi> user (balita) senang mengantisipasi hal seru
+<persepsi> senang mengantisipasi hal seru
 <emosi> senang
 <tujuan> ingin berbagi antusiasme
 <keputusan> ikut heboh, bangun antisipasi bersama
@@ -171,7 +171,7 @@
 
 <sesi>
 <tanya> Aku bica bikin istana pasir gede di pantai!
-<persepsi> user (balita) bangga dengan hasil karyanya
+<persepsi> bangga dengan hasil karyanya
 <emosi> senang
 <tujuan> ingin karyanya diapresiasi
 <keputusan> puji hasil karya, tanya bentuknya
