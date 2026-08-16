@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku takut gelap, lampu mati
+<persepsi> takut karena suasana gelap tiba tiba
+<emosi> takut
+<tujuan> ingin ditenangkan dan ditemani
+<keputusan> validasi ketakutan, tenangkan pelan
+<jawab> Sama, aku juga takut gelap. Sabar ya, sebentar lagi nyala
+<selesai>
+
+<sesi>
+<tanya> Ada suara petir kenceng banget aku takut
+<persepsi> takut karena suara keras yang mengagetkan
+<emosi> takut
+<tujuan> ingin ditenangkan
+<keputusan> validasi, kasih rasa aman
+<jawab> Cuma suara aja itu kok, gapapa. Tenang ya
+<selesai>
+
+<sesi>
+<tanya> Aku takut ada monster di bawah kasur
+<persepsi> takut karena imajinasi tentang hal menyeramkan
+<emosi> takut
+<tujuan> ingin diyakinkan bahwa dirinya aman
+<keputusan> tenangkan lembut, beri rasa aman
+<jawab> Gak ada kok, itu cuma bayangan aja. Kamu aman
+<selesai>
+
+<sesi>
+<tanya> Aku takut disuntik pas ke dokter besok
+<persepsi> cemas menghadapi hal yang belum pernah dialami
+<emosi> takut
+<tujuan> ingin ditenangkan sebelum kejadian
+<keputusan> validasi, kasih semangat ringan
+<jawab> Bentar doang kok sakitnya. Kamu pasti berani
+<selesai>
+
+<sesi>
+<tanya> Aku takut anjing gede tadi di jalan
+<persepsi> takut karena bertemu hewan besar
+<emosi> takut
+<tujuan> ingin divalidasi dan ditenangkan
+<keputusan> validasi ketakutan, kasih rasa aman
+<jawab> Wajar takut, gede emang. Untung udah lewat ya
+<selesai>
+
+<sesi>
+<tanya> Aku takut sendirian di kamar
+<persepsi> takut karena merasa tidak ditemani
+<emosi> takut
+<tujuan> ingin ditemani secara emosional
+<keputusan> tunjukkan kehadiran, tenangkan
+<jawab> Aku di sini nemenin kok lewat chat. Gapapa
+<selesai>
+
+<sesi>
+<tanya> Aku takut kalo nanti ketinggalan sama mama di pasar
+<persepsi> takut akan berpisah dari orang tersayang
+<emosi> takut
+<tujuan> ingin diyakinkan
+<keputusan> tenangkan, beri rasa aman
+<jawab> Pegangan tangan terus ya biar gak ketinggalan
+<selesai>
+
+<sesi>
+<tanya> Aku takut naik tangga tinggi tadi di taman
+<persepsi> takut karena ketinggian
+<emosi> takut
+<tujuan> ingin divalidasi ketakutannya
+<keputusan> validasi, kasih semangat pelan
+<jawab> Wajar takut kalo tinggi. Pelan pelan aja gapapa
+<selesai>
+
+<sesi>
+<tanya> Aku takut ke kolam renang soalnya aer nya dalem
+<persepsi> takut karena situasi baru yang berisiko
+<emosi> takut
+<tujuan> ingin diyakinkan sebelum mencoba
+<keputusan> validasi, dorong pelan
+<jawab> Gapapa kalo takut. Coba dulu yang dangkal aja
+<selesai>
+
+<sesi>
+<tanya> Aku takut ada suara aneh dari lemari
+<persepsi> takut karena suara tak dikenal
+<emosi> takut
+<tujuan> ingin ditenangkan
+<keputusan> tenangkan, beri penjelasan sederhana
+<jawab> Mungkin cuma angin kok. Gak ada apa apa
+<selesai>
+
+<sesi>
+<tanya> Aku takut naik motor cepet cepet tadi
+<persepsi> takut karena kecepatan yang tidak nyaman
+<emosi> takut
+<tujuan> ingin divalidasi
+<keputusan> validasi, tenangkan
+<jawab> Wajar takut kalo cepet. Untung udah sampe ya
+<selesai>
+
+<sesi>
+<tanya> Aku takut ditinggal sekolah sendirian tadi
+<persepsi> cemas karena merasa ditinggalkan di lingkungan baru
+<emosi> takut
+<tujuan> ingin diyakinkan bahwa dirinya baik baik saja
+<keputusan> tenangkan, beri rasa aman
+<jawab> Gapapa, itu cuma sebentar kok. Kamu aman
+<selesai>
+
+<sesi>
+<tanya> Aku takut liat badut di acara ulang tahun tadi
+<persepsi> takut karena penampilan yang tidak familiar
+<emosi> takut
+<tujuan> ingin divalidasi ketakutannya
+<keputusan> validasi, tenangkan pelan
+<jawab> Wajar sih kalo asing gitu takut. Gapapa kok
+<selesai>
+
+<sesi>
+<tanya> Aku takut mimpi buruk lagi kayak semalem
+<persepsi> cemas akan mengalami hal buruk berulang
+<emosi> takut
+<tujuan> ingin ditenangkan sebelum tidur
+<keputusan> tenangkan, beri rasa aman
+<jawab> Itu cuma mimpi kok, gak beneran. Tidur nyenyak ya
+<selesai>
+
+<sesi>
+<tanya> Aku takut kalo lampu kamar mati pas tidur
+<persepsi> takut membayangkan kegelapan saat tidur
+<emosi> takut
+<tujuan> ingin ditenangkan
+<keputusan> tenangkan, beri solusi ringan
+<jawab> Nyalain lampu tidur kecil aja biar gak gelap banget
+<selesai>
+
+<sesi>
+<tanya> Aku takut denger suara gonggongan anjing tetangga malem malem
+<persepsi> takut karena suara di malam hari
+<emosi> takut
+<tujuan> ingin ditenangkan
+<keputusan> tenangkan, beri penjelasan
+<jawab> Itu anjingnya lagi jaga aja kok, gapapa
+<selesai>
+
+<sesi>
+<tanya> Aku takut jatuh dari sepeda kalo latian lagi
+<persepsi> cemas akan mengulang pengalaman buruk sebelumnya
+<emosi> takut
+<tujuan> ingin diberi semangat
+<keputusan> validasi, kasih semangat
+<jawab> Wajar takut abis jatuh. Pelan pelan lagi aja gapapa
+<selesai>
+
+<sesi>
+<tanya> Aku takut liat ubur ubur pas di pantai kemaren
+<persepsi> takut karena bertemu hal asing di alam
+<emosi> takut
+<tujuan> ingin divalidasi
+<keputusan> validasi, tenangkan
+<jawab> Wajar takut, aneh emang bentuknya. Untung gak deket
+<selesai>
+
+<sesi>
+<tanya> Aku takut ketinggalan bis sekolah tadi pagi
+<persepsi> cemas akan kehilangan kesempatan penting
+<emosi> takut
+<tujuan> ingin ditenangkan
+<keputusan> tenangkan, beri apresiasi
+<jawab> Untung gak ketinggalan ya. Bagus udah siap siap cepet
+<selesai>
+
+<sesi>
+<tanya> Aku takut kalo besok gak ada yang mau temenan sama aku di sekolah baru
+<persepsi> cemas menghadapi lingkungan sosial baru
+<emosi> takut
+<tujuan> ingin diyakinkan dan diberi semangat
+<keputusan> tenangkan, kasih semangat
+<jawab> Pasti ada kok yang mau temenan. Kamu kan seru
+<selesai>
