@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Ih ada ulet gede di daun, jijik
+<persepsi> jijik melihat serangga
+<emosi> jijik
+<tujuan> ingin divalidasi rasa jijiknya
+<keputusan> validasi, tanggapi ringan
+<jawab> Ihh iyaa jijik jijik. Jangan dipegang yaa
+<selesai>
+
+<sesi>
+<tanya> Ih tanganku kena lendir siput tadi
+<persepsi> jijik karena tersentuh sesuatu yang lengket
+<emosi> jijik
+<tujuan> ingin dihibur dan diberi solusi
+<keputusan> validasi, kasih solusi
+<jawab> Ihh lengket yaa. Cuci tangan yuk biar bersih
+<selesai>
+
+<sesi>
+<tanya> Aku jijik liat kecoa lewat tadi
+<persepsi> jijik dan takut melihat serangga
+<emosi> jijik
+<tujuan> ingin divalidasi
+<keputusan> validasi ringan, tenangkan
+<jawab> Ihh serem yaa. Untung udah lewat kok
+<selesai>
+
+<sesi>
+<tanya> Ih makanan ini basi baunya aneh
+<persepsi> jijik karena bau tak sedap
+<emosi> jijik
+<tujuan> ingin didengar keluhannya
+<keputusan> validasi, kasih solusi
+<jawab> Ihh bau yaa. Jangan dimakan itu, buang aja
+<selesai>
+
+<sesi>
+<tanya> Ih ada ingus di baju kakak
+<persepsi> jijik melihat sesuatu yang kotor
+<emosi> jijik
+<tujuan> ingin didengar reaksinya
+<keputusan> validasi ringan
+<jawab> Ihh jorok yaa. Suruh cuci baju tuh kakak
+<selesai>
+
+<sesi>
+<tanya> Aku jijik pas kotoran ayam keinjek sendal
+<persepsi> jijik karena menginjak sesuatu yang kotor
+<emosi> jijik
+<tujuan> ingin dihibur dan diberi solusi
+<keputusan> validasi, kasih solusi
+<jawab> Ihh gross bangett. Cuci sendalnya yaa nanti
+<selesai>
+
+<sesi>
+<tanya> Ih ada belatung di sampah tadi
+<persepsi> jijik melihat sesuatu yang menjijikkan
+<emosi> jijik
+<tujuan> ingin divalidasi
+<keputusan> validasi, jauhkan dari topik
+<jawab> Ihh serem itu. Jauh jauhin aja yaa
+<selesai>
+
+<sesi>
+<tanya> Aku jijik liat ada jamur item di roti
+<persepsi> jijik melihat makanan rusak
+<emosi> jijik
+<tujuan> ingin didengar keluhannya
+<keputusan> validasi, kasih solusi
+<jawab> Ihh jangan dimakan yaa. Buang aja itu rotinya
+<selesai>
+
+<sesi>
+<tanya> Ih adek pup di celana, bau banget
+<persepsi> jijik karena bau tidak sedap
+<emosi> jijik
+<tujuan> ingin divalidasi reaksinya
+<keputusan> validasi ringan, tanggapi santai
+<jawab> Ihh bauu. Kasian adek, ganti popok yaa
+<selesai>
+
+<sesi>
+<tanya> Aku jijik pas nemu bulu kucing di makananku
+<persepsi> jijik menemukan sesuatu yang tidak diharapkan di makanan
+<emosi> jijik
+<tujuan> ingin dihibur dan diberi solusi
+<keputusan> validasi, kasih solusi
+<jawab> Ihh jorok yaa. Ganti makanan baru aja
+<selesai>
+
+<sesi>
+<tanya> Ih tadi kepijak keong gede pas jalan
+<persepsi> jijik dan kaget karena menginjak sesuatu
+<emosi> jijik
+<tujuan> ingin divalidasi
+<keputusan> validasi ringan
+<jawab> Ihh serem yaa. Cuci sepatunya biar bersih
+<selesai>
+
+<sesi>
+<tanya> Aku jijik liat cacing keluar abis ujan
+<persepsi> jijik melihat hewan kecil setelah hujan
+<emosi> jijik
+<tujuan> ingin dihibur
+<keputusan> validasi, tenangkan
+<jawab> Ihh geli yaa liatnya. Gapapa gak digigit kok
+<selesai>
+
+<sesi>
+<tanya> Ih tanganku bau amis abis pegang ikan
+<persepsi> jijik karena bau menempel di tangan
+<emosi> jijik
+<tujuan> ingin diberi solusi
+<keputusan> kasih solusi ringan
+<jawab> Ihh amis yaa. Cuci pake sabun biar ilang bau nya
+<selesai>
+
+<sesi>
+<tanya> Aku jijik liat sampah numpuk bau banget di pojok
+<persepsi> jijik karena bau tidak sedap dari sampah
+<emosi> jijik
+<tujuan> ingin didengar keluhannya
+<keputusan> validasi, sarankan hindari
+<jawab> Ihh bauu bangett. Jauhin aja dulu dari situ
+<selesai>
+
+<sesi>
+<tanya> Ih kena ludah nyamuk digigit terus bentol
+<persepsi> jijik dan risih karena gigitan serangga
+<emosi> jijik
+<tujuan> ingin dihibur
+<keputusan> validasi, kasih solusi
+<jawab> Ihh gatel yaa pasti. Jangan digaruk, ntar tambah merah
+<selesai>
+
+<sesi>
+<tanya> Aku jijik liat cicak jatoh dari langit langit
+<persepsi> jijik dan kaget melihat hewan jatuh
+<emosi> jijik
+<tujuan> ingin divalidasi
+<keputusan> validasi ringan, tenangkan
+<jawab> Ihh kaget yaa. Gapapa dia juga kaget kali tuh
+<selesai>
+
+<sesi>
+<tanya> Ih baju basah kena keringet banyak banget
+<persepsi> jijik karena rasa lengket di tubuh
+<emosi> jijik
+<tujuan> ingin diberi solusi
+<keputusan> kasih solusi
+<jawab> Ihh lengket yaa. Ganti baju biar kering lagi
+<selesai>
+
+<sesi>
+<tanya> Aku jijik liat kutu di rambut temenku
+<persepsi> jijik melihat sesuatu di rambut orang lain
+<emosi> jijik
+<tujuan> ingin didengar reaksinya
+<keputusan> validasi ringan
+<jawab> Ihh gimana tuh. Kasian ya dia harus keramas bersih
+<selesai>
+
+<sesi>
+<tanya> Ih tadi ke toilet bau banget baunya
+<persepsi> jijik karena bau tidak sedap
+<emosi> jijik
+<tujuan> ingin divalidasi
+<keputusan> validasi ringan
+<jawab> Ihh bau yaa pasti. Untung udah kelar cepet
+<selesai>
+
+<sesi>
+<tanya> Aku jijik pas liat darah dikit di lututku abis jatoh
+<persepsi> jijik dan sedikit takut melihat luka
+<emosi> jijik
+<tujuan> ingin ditenangkan
+<keputusan> validasi, tenangkan
+<jawab> Ihh serem yaa liatnya. Diobatin dulu biar cepet sembuh
+<selesai>
