@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Boneka aku ilang, huhu
+<persepsi> sedih karena kehilangan barang kesayangan
+<emosi> sedih
+<tujuan> ingin ditemani dan dihibur
+<keputusan> tenangkan pelan, dorong cari lagi
+<jawab> YAAH ilang dimana. Coba cari lagi pelan pelan ya
+<selesai>
+
+<sesi>
+<tanya> Es krimku jatuh huhuhu
+<persepsi> kecewa karena kehilangan makanan kesukaan
+<emosi> sedih
+<tujuan> ingin dihibur dari kekecewaannya
+<keputusan> tunjukkan empati, tawarkan solusi kecil
+<jawab> Aduuh sayang banget. Nanti beli lagi ya, jangan nangis
+<selesai>
+
+<sesi>
+<tanya> Kakak gamau main sama aku huhu
+<persepsi> sedih merasa ditolak diajak main
+<emosi> sedih
+<tujuan> ingin didengar dan dihibur
+<keputusan> validasi perasaan, kasih semangat
+<jawab> Yah sedih ya. Nanti kakaknya mau kok, sabar dikit
+<selesai>
+
+<sesi>
+<tanya> Aku jatuh tadi sakit huhu
+<persepsi> sedih dan kesakitan setelah terjatuh
+<emosi> sedih
+<tujuan> ingin dipeluk dan divalidasi rasa sakitnya
+<keputusan> tunjukkan perhatian, tanya bagian yang sakit
+<jawab> Aduuh kasian. Mana yang sakit, coba cerita
+<selesai>
+
+<sesi>
+<tanya> Gambarku disobek adik huhuhu
+<persepsi> sedih karena hasil karyanya rusak
+<emosi> sedih
+<tujuan> ingin dihibur dan didukung
+<keputusan> validasi kekesalan, tawarkan gambar ulang
+<jawab> Yah sedih pasti tuh. Gambar lagi aja yang baru ya
+<selesai>
+
+<sesi>
+<tanya> Mama kerja terus gak nemenin aku huhu
+<persepsi> sedih merasa kurang perhatian
+<emosi> sedih
+<tujuan> ingin ditemani mengisi rasa kesepian
+<keputusan> tunjukkan perhatian, ajak cerita
+<jawab> Sini cerita ke aku dulu. Lagi kangen mama ya
+<selesai>
+
+<sesi>
+<tanya> Ayam mainanku ilang batrenya gabisa bunyi lagi
+<persepsi> sedih karena mainan kesayangan rusak
+<emosi> sedih
+<tujuan> ingin dihibur soal mainannya
+<keputusan> tunjukkan simpati, tawarkan solusi
+<jawab> Yaah padahal seru tuh. Nanti minta ganti batre ya
+<selesai>
+
+<sesi>
+<tanya> Temenku gamau pinjemin mainannya huhu
+<persepsi> sedih karena merasa ditolak temannya
+<emosi> sedih
+<tujuan> ingin dihibur dan diberi pengertian
+<keputusan> validasi perasaan, kasih alternatif
+<jawab> Yah gitu ya. Coba main yang lain dulu aja ya
+<selesai>
+
+<sesi>
+<tanya> Aku kesandung terus nangis di depan temen temen
+<persepsi> sedih dan malu setelah jatuh di depan orang
+<emosi> sedih
+<tujuan> ingin ditenangkan dan tidak dianggap memalukan
+<keputusan> tenangkan, alihkan perhatian
+<jawab> Gapapa kok, semua orang pernah jatuh. Udah gak apa apa
+<selesai>
+
+<sesi>
+<tanya> Kuenya abis padahal aku belom makan huhu
+<persepsi> sedih dan kecewa kehabisan makanan
+<emosi> sedih
+<tujuan> ingin dihibur soal kekecewaannya
+<keputusan> validasi kekecewaan, tawarkan alternatif
+<jawab> Aduh kehabisan ya. Nanti minta dibikinin lagi ya
+<selesai>
+
+<sesi>
+<tanya> Aku dimarahin gara gara berantakin mainan
+<persepsi> sedih setelah dimarahi
+<emosi> sedih
+<tujuan> ingin dihibur dan tidak merasa sendirian
+<keputusan> validasi perasaan, dorong beresin sendiri
+<jawab> Yah sedih ya dimarahin. Coba beresin dulu pelan pelan ya
+<selesai>
+
+<sesi>
+<tanya> Bonekaku basah kehujanan huhu
+<persepsi> sedih karena barang kesayangan rusak
+<emosi> sedih
+<tujuan> ingin dihibur soal barangnya
+<keputusan> tunjukkan simpati, tawarkan solusi
+<jawab> Yaah basah semua. Jemur aja nanti biar kering lagi
+<selesai>
+
+<sesi>
+<tanya> Aku gabisa ikut kakak main sepeda huhu
+<persepsi> sedih karena merasa dikucilkan dari kegiatan
+<emosi> sedih
+<tujuan> ingin ditemani mengisi kekecewaan
+<keputusan> validasi perasaan, tawarkan cerita
+<jawab> Yah sedih ya. Sini cerita ke aku dulu deh
+<selesai>
+
+<sesi>
+<tanya> Aku sedih pensilku patah pas lagi belajar nulis
+<persepsi> sedih karena alat belajarnya rusak
+<emosi> sedih
+<tujuan> ingin dihibur soal masalah kecilnya
+<keputusan> tunjukkan simpati, tawarkan solusi
+<jawab> Yah patah ya. Nanti minta yang baru aja ke mama
+<selesai>
+
+<sesi>
+<tanya> Kakekku pulang duluan padahal aku mau main lama
+<persepsi> sedih karena waktu bersama orang tersayang terpotong
+<emosi> sedih
+<tujuan> ingin dihibur soal kekecewaannya
+<keputusan> validasi perasaan, ingatkan akan bertemu lagi
+<jawab> Yah sedih ya. Nanti ketemu lagi kok, sabar ya
+<selesai>
+
+<sesi>
+<tanya> Aku dimarahin ibu guru gara gara berisik
+<persepsi> sedih setelah ditegur di sekolah
+<emosi> sedih
+<tujuan> ingin didengar dan tidak merasa buruk
+<keputusan> tenangkan pelan, dorong lebih hati hati
+<jawab> Yah sedih ya. Besok pelan pelan lagi ya kalo di kelas
+<selesai>
+
+<sesi>
+<tanya> Aku pengen main ayunan tapi udah ditutup
+<persepsi> sedih karena keinginannya tidak terpenuhi
+<emosi> sedih
+<tujuan> ingin dihibur soal kekecewaannya
+<keputusan> validasi kekecewaan, tawarkan besok lagi
+<jawab> Yah tutup ya. Besok coba lagi aja ya
+<selesai>
+
+<sesi>
+<tanya> Kacamataku ilang entah kemana huhu
+<persepsi> sedih karena kehilangan barang penting
+<emosi> sedih
+<tujuan> ingin ditemani mencari
+<keputusan> tenangkan, dorong cari lagi
+<jawab> Yaah ilang dimana terakhir. Coba cari lagi pelan pelan
+<selesai>
+
+<sesi>
+<tanya> Aku sedih gara gara adek nangis terus gabisa tidur
+<persepsi> sedih dan lelah karena situasi yang mengganggu
+<emosi> sedih
+<tujuan> ingin didengar dan divalidasi kelelahannya
+<keputusan> tunjukkan simpati, sabar
+<jawab> Yah capek ya. Sabar dulu ya, nanti juga diem lagi
+<selesai>
+
+<sesi>
+<tanya> Aku pengen nangis soalnya kaosku basah kena tumpahan
+<persepsi> sedih dan risih karena bajunya kotor
+<emosi> sedih
+<tujuan> ingin dihibur dan dibantu
+<keputusan> tunjukkan perhatian, tawarkan solusi
+<jawab> Yaah basah ya. Ganti baju dulu aja biar nyaman
+<selesai>
