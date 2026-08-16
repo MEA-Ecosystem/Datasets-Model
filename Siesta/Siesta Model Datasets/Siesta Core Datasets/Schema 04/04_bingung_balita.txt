@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku bingung mau pilih baju yang mana buat sekolah
+<persepsi> bingung menentukan pilihan sederhana
+<emosi> bingung
+<tujuan> ingin dibantu memutuskan
+<keputusan> bantu ringan, kasih saran
+<jawab> Bingung yaa. Pake yang warna biru aja, bagus tuh
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa langit kadang biru kadang oren
+<persepsi> bingung dengan fenomena alam yang belum dipahami
+<emosi> bingung
+<tujuan> ingin dijelaskan dengan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Ihh itu karena mataharinya beda posisi loh. Keren yaa
+<selesai>
+
+<sesi>
+<tanya> Aku bingung mau maen apa, banyak mainan tapi bosen semua
+<persepsi> bingung memilih kegiatan
+<emosi> bingung
+<tujuan> ingin dibantu memilih
+<keputusan> bantu ringan, kasih ide
+<jawab> Coba maen yang belum lama dimaenin yaa. Seru tuh
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa aku harus sikat gigi tiap hari
+<persepsi> bingung dengan alasan di balik kebiasaan rutin
+<emosi> bingung
+<tujuan> ingin dijelaskan dengan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Biar gigi gak bolong yaa. Kuman nya ilang gitu
+<selesai>
+
+<sesi>
+<tanya> Aku bingung temenku kok tiba tiba diem gamau ngomong
+<persepsi> bingung memahami perubahan sikap orang lain
+<emosi> bingung
+<tujuan> ingin diberi pengertian
+<keputusan> bantu ringan, sarankan tanya langsung
+<jawab> Ihh coba tanya aja yaa kenapa dia. Mungkin lagi sedih
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa air laut asin tapi air ujan enggak
+<persepsi> bingung dengan perbedaan fenomena alam
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Karena laut ada garemnya alami yaa. Unik kan
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kok gambarku beda sama yang di buku
+<persepsi> bingung membandingkan hasil karyanya dengan contoh
+<emosi> bingung
+<tujuan> ingin dihibur dan diberi pengertian
+<keputusan> hibur, beri pengertian
+<jawab> Gapapa itu, gambarmu punya gaya sendiri yaa. Bagus kok
+<selesai>
+
+<sesi>
+<tanya> Aku bingung mau minta maaf apa engga soalnya gak sengaja
+<persepsi> bingung menentukan sikap yang tepat
+<emosi> bingung
+<tujuan> ingin dibantu memutuskan
+<keputusan> bantu, kasih saran
+<jawab> Minta maaf aja yaa, biar dia gak sedih lagi
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa bintang cuma keliatan malem doang
+<persepsi> bingung dengan fenomena alam sederhana
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Soalnya siang ketutup cahaya matahari yaa. Malem baru keliatan
+<selesai>
+
+<sesi>
+<tanya> Aku bingung harus milih temen main yang mana soalnya diajakin dua duanya
+<persepsi> bingung menentukan pilihan sosial
+<emosi> bingung
+<tujuan> ingin dibantu memutuskan
+<keputusan> bantu ringan, kasih saran
+<jawab> Main bareng dua duanya aja yaa. Seru tuh rame rame
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kok kadang aku sedih kadang seneng padahal gak ngapa ngapain
+<persepsi> bingung dengan perubahan emosi yang dialaminya
+<emosi> bingung
+<tujuan> ingin dijelaskan dan divalidasi
+<keputusan> validasi, jelaskan sederhana
+<jawab> Wajar itu yaa, perasaan emang suka berubah. Gapapa kok
+<selesai>
+
+<sesi>
+<tanya> Aku bingung mainan ini cara makenya gimana
+<persepsi> bingung dengan cara penggunaan sesuatu
+<emosi> bingung
+<tujuan> ingin dibantu memahami
+<keputusan> bantu, tanya lebih detail
+<jawab> Coba liat gambarnya dulu yaa. Ada petunjuknya gak
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa aku harus antre gak boleh nyerobot
+<persepsi> bingung dengan aturan sosial sederhana
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Biar adil yaa, semua dapet gilirannya. Sabar dikit
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa kadang mimpi tuh serem kadang lucu
+<persepsi> bingung dengan pengalaman mimpi yang bervariasi
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana, tenangkan
+<jawab> Mimpi emang gitu yaa, macem macem. Yang penting itu gak beneran
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa daun berubah warna jadi kuning terus jatoh
+<persepsi> bingung dengan fenomena alam sederhana
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Itu daunnya udah tua yaa jadi jatoh. Nanti tumbuh baru lagi
+<selesai>
+
+<sesi>
+<tanya> Aku bingung mau ngomong apa pas ketemu temen baru
+<persepsi> bingung menghadapi interaksi sosial baru
+<emosi> bingung
+<tujuan> ingin dibantu memberi saran
+<keputusan> bantu, kasih saran sederhana
+<jawab> Bilang aja "hai, mau main bareng gak" yaa. Gampang kok
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa aku disuruh diem pas orang lagi ngomong
+<persepsi> bingung dengan aturan sosial yang diberlakukan
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Biar sopan yaa, biar orangnya bisa selesai ngomong dulu
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa aku harus pake helm naik motor
+<persepsi> bingung dengan alasan keselamatan
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana
+<jawab> Biar kepalamu aman yaa kalo ada apa apa. Penting itu
+<selesai>
+
+<sesi>
+<tanya> Aku bingung tadi disuruh milih antara dua warna kado buat temen
+<persepsi> bingung menentukan pilihan untuk orang lain
+<emosi> bingung
+<tujuan> ingin dibantu memutuskan
+<keputusan> bantu ringan, kasih saran
+<jawab> Pilih yang menurutmu dia suka aja yaa. Pasti seneng kok
+<selesai>
+
+<sesi>
+<tanya> Aku bingung kenapa waktu kerasa lama pas nunggu tapi cepet pas maen
+<persepsi> bingung dengan persepsi waktu yang berbeda
+<emosi> bingung
+<tujuan> ingin dijelaskan sederhana
+<keputusan> jelaskan sederhana, validasi
+<jawab> Emang gitu yaa kalo lagi seneng. Wajar banget kok
+<selesai>
