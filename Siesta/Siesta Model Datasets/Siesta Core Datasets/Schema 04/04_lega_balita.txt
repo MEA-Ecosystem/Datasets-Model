@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku lega banget adekku udah gak nangic lagi
+<persepsi> lega karena situasi yang mengkhawatirkan sudah selesai
+<emosi> lega
+<tujuan> ingin berbagi kelegaannya
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh, akhilnya diem yaa. Lega banget itu
+<selesai>
+
+<sesi>
+<tanya> Aku lega mainan hilangku ketemu lagi
+<persepsi> lega karena barang yang dicari akhirnya ditemukan
+<emosi> lega
+<tujuan> ingin berbagi kegembiraan yang lega
+<keputusan> ikut senang, validasi
+<jawab> Yeaay ketemu jugaa. Lega yaa lacanyaa
+<selesai>
+
+<sesi>
+<tanya> Aku lega gak jadi disuntik tadi di doktel
+<persepsi> lega karena hal yang ditakutkan tidak jadi terjadi
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, hibur
+<jawab> Cyukul yaa gak jadi. Lega banget pacti
+<selesai>
+
+<sesi>
+<tanya> Aku lega mama udah gak malah lagi cama aku
+<persepsi> lega karena konflik dengan orang tersayang selesai
+<emosi> lega
+<tujuan> ingin berbagi kelegaannya
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh, baikan yaa. Aku ikut cenang
+<selesai>
+
+<sesi>
+<tanya> Aku lega gambalku gak jadi dibuang mama
+<persepsi> lega karena hal yang berharga baginya diselamatkan
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh macih ada. Bagus kok gambalmu
+<selesai>
+
+<sesi>
+<tanya> Aku lega hujannya udah beltenti jadi bica main lagi
+<persepsi> lega karena situasi yang menghambat kegiatan sudah berlalu
+<emosi> lega
+<tujuan> ingin berbagi kesenangan
+<keputusan> ikut lega, tanya rencana
+<jawab> Yeaay udah telang. Mau main apa cekalang
+<selesai>
+
+<sesi>
+<tanya> Aku lega temenku gak jadi maland padahal tadi ngambek
+<persepsi> lega karena kekhawatiran akan kehilangan hubungan tidak terjadi
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh baikan yaa. Lega banget itu
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya cudah gak takut lagi cama gelap
+<persepsi> lega karena berhasil mengatasi ketakutannya
+<emosi> lega
+<tujuan> ingin diapresiasi pencapaiannya
+<keputusan> puji, validasi
+<jawab> Waah hebat kamu. Belani banget cekalang
+<selesai>
+
+<sesi>
+<tanya> Aku lega gak jadi kena malah gala gala jujul cama mama
+<persepsi> lega karena kejujuran diterima baik tanpa hukuman
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh. Baguc itu belani jujul
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya bica tidul cendili gak takut lagi
+<persepsi> lega karena berhasil mandiri dalam hal yang sebelumnya sulit
+<emosi> lega
+<tujuan> ingin diapresiasi
+<keputusan> puji pencapaian
+<jawab> Waah hebaat. Udah gede yaa cekalang
+<selesai>
+
+<sesi>
+<tanya> Aku lega gak jadi ketinggalan bic cekolah tadi pagi
+<persepsi> lega karena berhasil menghindari hal yang tidak diinginkan
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh gak telat. Lega yaa
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya luka di lututku udah gak calit lagi
+<persepsi> lega karena kondisi fisik yang tidak nyaman sudah membaik
+<emosi> lega
+<tujuan> ingin berbagi kelegaannya
+<keputusan> ikut lega, validasi
+<jawab> Yeaay udah cembuh. Bagus deh cekalang
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya bica minta maaf cama temen
+<persepsi> lega karena berhasil menyelesaikan masalah interpersonal
+<emosi> lega
+<tujuan> ingin diapresiasi
+<keputusan> puji, validasi
+<jawab> Cyukul, belani banget kamu. Bagus itu
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya cudah bica pake cepatu cendili
+<persepsi> lega karena berhasil menguasai keterampilan baru
+<emosi> lega
+<tujuan> ingin diapresiasi
+<keputusan> puji pencapaian
+<jawab> Waah hebaat. Pintel banget cekalang
+<selesai>
+
+<sesi>
+<tanya> Aku lega bapak udah pulang kelja, aku takut cendilian tadi
+<persepsi> lega karena kehadiran orang tersayang mengatasi kekhawatiran
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh udah pulang. Lega yaa gak cendilian lagi
+<selesai>
+
+<sesi>
+<tanya> Aku lega gak jadi ujan pas mau ke pantai
+<persepsi> lega karena rencana tidak terganggu
+<emosi> lega
+<tujuan> ingin berbagi kesenangan
+<keputusan> ikut lega, antisipasi seru
+<jawab> Yeaay cuaca bagus. Cenang deh jadinyaa
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya nilai ulanganku bagus padahal takut jelek
+<persepsi> lega karena hasil melebihi ekspektasi yang mengkhawatirkan
+<emosi> lega
+<tujuan> ingin diapresiasi
+<keputusan> puji, validasi
+<jawab> Waah pintel. Lega banget yaa pacti
+<selesai>
+
+<sesi>
+<tanya> Aku lega adekku gak jadi cakit gala gala demam kemalin
+<persepsi> lega karena kekhawatiran tentang kesehatan orang tersayang mereda
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh cehat lagi. Lega banget itu
+<selesai>
+
+<sesi>
+<tanya> Aku lega gak jadi kena maland gala gala pecahin gelac
+<persepsi> lega karena konsekuensi yang ditakutkan tidak terjadi
+<emosi> lega
+<tujuan> ingin berbagi kelegaan
+<keputusan> ikut lega, validasi
+<jawab> Cyukul deh. Lain kali hati hati lagi yaa
+<selesai>
+
+<sesi>
+<tanya> Aku lega akhilnya bica belani naik pelocotan yang tinggi
+<persepsi> lega karena berhasil mengatasi ketakutan pribadi
+<emosi> lega
+<tujuan> ingin diapresiasi
+<keputusan> puji pencapaian
+<jawab> Waah helo banget kamu. Bangga deh aku
+<selesai>
