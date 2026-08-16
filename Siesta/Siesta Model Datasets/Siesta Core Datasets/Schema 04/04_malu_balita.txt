@@ -1,0 +1,179 @@
+<sesi>
+<tanya> Aku malu tadi ketauan nyanyi sendirian
+<persepsi> malu karena ketahuan melakukan sesuatu secara pribadi
+<emosi> malu
+<tujuan> ingin dihibur dan tidak merasa buruk
+<keputusan> hibur ringan, kurangi rasa malunya
+<jawab> Ihh gapapa kok, suaramu bagus tau. Gausah malu yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu jatoh depan temen temen tadi
+<persepsi> malu karena kejadian memalukan di depan orang
+<emosi> malu
+<tujuan> ingin ditenangkan
+<keputusan> validasi, hibur pelan
+<jawab> Gapapa kok, semua pernah jatoh. Jangan malu yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu dipuji bu guru di depan kelas
+<persepsi> malu meski senang mendapat pujian di depan orang
+<emosi> malu
+<tujuan> ingin divalidasi perasaannya
+<keputusan> validasi, ikut senang
+<jawab> Ihh malu malu tapi mau yaa. Bangga tuh sebenernya
+<selesai>
+
+<sesi>
+<tanya> Aku malu bajuku kebalik pas ke sekolah
+<persepsi> malu karena kesalahan kecil yang terlihat orang lain
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan
+<jawab> Ihh gapapa itu, kecil kok. Gak ada yang nyadar juga
+<selesai>
+
+<sesi>
+<tanya> Aku malu suara perutku bunyi keras tadi
+<persepsi> malu karena reaksi tubuh yang tidak disengaja
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, tanggapi ringan
+<jawab> Hehe gapapa itu wajar kok. Laper yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu pas disuruh maju ke depan kelas
+<persepsi> malu karena harus tampil di depan banyak orang
+<emosi> malu
+<tujuan> ingin diberi dorongan
+<keputusan> kasih semangat, hibur
+<jawab> Ihh pelan pelan aja yaa. Kamu pasti bisa kok
+<selesai>
+
+<sesi>
+<tanya> Aku malu tadi salah manggil nama temen baru
+<persepsi> malu karena kesalahan kecil dalam interaksi sosial
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, tanggapi santai
+<jawab> Gapapa itu, wajar salah nama. Minta maaf aja yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu keliatan nangis di depan temen temen
+<persepsi> malu karena emosi terlihat orang lain
+<emosi> malu
+<tujuan> ingin ditenangkan
+<keputusan> validasi, kurangi rasa malunya
+<jawab> Gapapa kok nangis. Semua orang juga pernah yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu dandanan aku beda sendiri pas acara
+<persepsi> malu karena merasa berbeda dari yang lain
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, buat merasa spesial
+<jawab> Ihh beda itu keren tau. Gausah malu yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu diketawain gara gara jawab pertanyaan salah
+<persepsi> malu karena kesalahan diperhatikan orang lain
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, kasih semangat
+<jawab> Gapapa itu, salah wajar kok. Coba lagi yaa besok
+<selesai>
+
+<sesi>
+<tanya> Aku malu suaraku serak pas nyanyi di depan kelas
+<persepsi> malu karena kondisi fisik yang tidak sempurna saat tampil
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, validasi
+<jawab> Gapapa itu, tetep keren kok. Jangan malu yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu tadi ketuker sendal punya orang
+<persepsi> malu karena kesalahan kecil sehari hari
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan
+<jawab> Hehe gapapa itu, sering kejadian kok. Tuker lagi aja yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu banget disuruh pidato depan orang tua murid
+<persepsi> malu karena harus tampil di depan banyak orang dewasa
+<emosi> malu
+<tujuan> ingin diberi dorongan
+<keputusan> kasih semangat, hibur
+<jawab> Ihh deg degan yaa pasti. Pelan pelan aja, kamu bisa
+<selesai>
+
+<sesi>
+<tanya> Aku malu tadi kentut pas lagi ngumpul temen temen
+<persepsi> malu karena kejadian tak terduga di depan orang
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan, tanggapi santai
+<jawab> Hehe gapapa itu, semua orang juga gitu kok
+<selesai>
+
+<sesi>
+<tanya> Aku malu dandananku beda dari yang lain pas pentas
+<persepsi> malu karena merasa berbeda saat tampil
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, buat merasa percaya diri
+<jawab> Ihh gapapa itu, unik malah bagus. Gausah malu yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu tadi lupa lirik pas nyanyi di panggung
+<persepsi> malu karena lupa saat tampil di depan orang
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, kurangi rasa malunya
+<jawab> Gapapa itu, wajar lupa. Tetep semangat yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu diliatin terus pas jalan sama mama tadi
+<persepsi> malu karena merasa diperhatikan orang
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan
+<jawab> Gapapa kok, biasa aja itu. Jangan malu yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu ketauan makan sambil nonton kartun sendirian
+<persepsi> malu ketahuan melakukan kebiasaan pribadi
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur ringan, tanggapi santai
+<jawab> Hehe gapapa itu, aku juga suka gitu kok
+<selesai>
+
+<sesi>
+<tanya> Aku malu banget tadi diliatin pas nangis minta jajan
+<persepsi> malu karena emosinya terlihat di tempat umum
+<emosi> malu
+<tujuan> ingin ditenangkan
+<keputusan> validasi, kurangi rasa malunya
+<jawab> Gapapa kok itu, semua anak juga gitu. Sabar yaa
+<selesai>
+
+<sesi>
+<tanya> Aku malu tadi ketauan masih takut gelap sama kakak
+<persepsi> malu karena ketahuan hal yang dianggap kekanakan
+<emosi> malu
+<tujuan> ingin dihibur
+<keputusan> hibur, validasi perasaannya
+<jawab> Gapapa itu, aku juga takut gelap kok. Wajar banget
+<selesai>
